@@ -1,0 +1,807 @@
+Apr 17 09:49:06 10.71.57.0 tmp111365691-3768 Connection from 10.71.57.0 port 37254 on 82.165.88.183 port 22
+Apr 17 09:49:06 10.71.57.0 tmp111365691-3768 Accepted password for tmp111365691-3768 from 10.71.57.0 port 37254 ssh2
+Apr 17 09:49:06 10.71.57.0 tmp111365691-3768 Starting session: subsystem 'sftp' for tmp111365691-3768 from 10.71.57.0 port 37254 id 0
+Apr 17 09:49:06 10.71.57.0 tmp111365691-3768 session opened for local user tmp111365691-3768 from [10.71.57.0]
+Apr 17 09:49:08 10.71.57.0 tmp111365691-3768 Connection from 10.71.57.0 port 37266 on 82.165.88.183 port 22
+Apr 17 09:49:08 10.71.57.0 tmp111365691-3768 Accepted password for tmp111365691-3768 from 10.71.57.0 port 37266 ssh2
+Apr 17 10:22:45 10.71.57.0 tmp111365691-3768 session closed for local user tmp111365691-3768 from [10.71.57.0]
+Apr 17 10:22:45 10.71.57.0 tmp111365691-3768 Connection closed by 10.71.57.0 port 37254
+Apr 17 10:22:45 10.71.57.0 tmp111365691-3768 Connection closed by 10.71.57.0 port 37266
+Apr 21 11:59:44 10.71.56.0 u111365691 Connection from 10.71.56.0 port 44496 on 82.165.88.183 port 22
+Apr 21 11:59:45 10.71.56.0 u111365691 Accepted password for u111365691 from 10.71.56.0 port 44496 ssh2
+Apr 21 11:59:44 10.71.56.0 u111365691 Connection from 10.71.56.0 port 41496 on 82.165.88.183 port 22
+Apr 21 11:59:45 10.71.56.0 u111365691 Accepted password for u111365691 from 10.71.56.0 port 41496 ssh2
+Apr 21 11:59:44 10.71.57.0 u111365691 Connection from 10.71.57.0 port 53098 on 82.165.88.183 port 22
+Apr 21 11:59:45 10.71.57.0 u111365691 Accepted password for u111365691 from 10.71.57.0 port 53098 ssh2
+Apr 21 11:59:46 10.71.56.0 u111365691 Starting session: subsystem 'sftp' for u111365691 from 10.71.56.0 port 44496 id 0
+Apr 21 11:59:46 10.71.56.0 u111365691 Starting session: subsystem 'sftp' for u111365691 from 10.71.56.0 port 41496 id 0
+Apr 21 11:59:46 10.71.57.0 u111365691 Starting session: subsystem 'sftp' for u111365691 from 10.71.57.0 port 53098 id 0
+Apr 21 11:59:46 10.71.56.0 u111365691 session opened for local user u111365691 from [10.71.56.0]
+Apr 21 11:59:46 10.71.56.0 u111365691 session opened for local user u111365691 from [10.71.56.0]
+Apr 21 11:59:46 10.71.57.0 u111365691 session opened for local user u111365691 from [10.71.57.0]
+Apr 21 11:59:48 10.71.56.0 u111365691 open "/aboutus.php" flags READ mode 0666
+Apr 21 11:59:48 10.71.57.0 u111365691 open "/404.html" flags READ mode 0666
+Apr 21 11:59:49 10.71.56.0 u111365691 close "/aboutus.php" bytes read 7576 written 0
+Apr 21 11:59:49 10.71.56.0 u111365691 [10.71.56.0|get|1|7576|0|0|0|2f61626f757475732e706870|]
+Apr 21 11:59:49 10.71.57.0 u111365691 close "/404.html" bytes read 19476 written 0
+Apr 21 11:59:49 10.71.57.0 u111365691 [10.71.57.0|get|1|19476|0|0|0|2f3430342e68746d6c|]
+Apr 21 11:59:50 10.71.56.0 u111365691 open "/apple-touch-icon.png" flags READ mode 0666
+Apr 21 11:59:50 10.71.57.0 u111365691 open "/contactus.php" flags READ mode 0666
+Apr 21 11:59:50 10.71.56.0 u111365691 close "/apple-touch-icon.png" bytes read 3959 written 0
+Apr 21 11:59:50 10.71.56.0 u111365691 [10.71.56.0|get|0|3959|0|0|0|2f6170706c652d746f7563682d69636f6e2e706e67|]
+Apr 21 11:59:51 10.71.57.0 u111365691 close "/contactus.php" bytes read 23077 written 0
+Apr 21 11:59:51 10.71.57.0 u111365691 [10.71.57.0|get|1|23077|0|0|0|2f636f6e7461637475732e706870|]
+Apr 21 11:59:51 10.71.56.0 u111365691 open "/footer.php" flags READ mode 0666
+Apr 21 11:59:51 10.71.57.0 u111365691 open "/gallery.php" flags READ mode 0666
+Apr 21 11:59:52 10.71.56.0 u111365691 close "/footer.php" bytes read 7581 written 0
+Apr 21 11:59:52 10.71.56.0 u111365691 [10.71.56.0|get|1|7581|0|0|0|2f666f6f7465722e706870|]
+Apr 21 11:59:52 10.71.57.0 u111365691 close "/gallery.php" bytes read 6835 written 0
+Apr 21 11:59:52 10.71.57.0 u111365691 [10.71.57.0|get|1|6835|0|0|0|2f67616c6c6572792e706870|]
+Apr 21 11:59:53 10.71.56.0 u111365691 open "/header.php" flags READ mode 0666
+Apr 21 11:59:53 10.71.57.0 u111365691 open "/index.php" flags READ mode 0666
+Apr 21 11:59:54 10.71.56.0 u111365691 close "/header.php" bytes read 6412 written 0
+Apr 21 11:59:54 10.71.56.0 u111365691 [10.71.56.0|get|1|6412|0|0|0|2f6865616465722e706870|]
+Apr 21 11:59:54 10.71.57.0 u111365691 close "/index.php" bytes read 1734 written 0
+Apr 21 11:59:54 10.71.57.0 u111365691 [10.71.57.0|get|1|1734|0|0|0|2f696e6465782e706870|]
+Apr 21 11:59:55 10.71.56.0 u111365691 open "/Loading_icon.gif" flags READ mode 0666
+Apr 21 11:59:55 10.71.57.0 u111365691 open "/main.php" flags READ mode 0666
+Apr 21 11:59:56 10.71.56.0 u111365691 close "/Loading_icon.gif" bytes read 17490 written 0
+Apr 21 11:59:56 10.71.56.0 u111365691 [10.71.56.0|get|1|17490|0|0|0|2f4c6f6164696e675f69636f6e2e676966|]
+Apr 21 11:59:56 10.71.57.0 u111365691 close "/main.php" bytes read 39375 written 0
+Apr 21 11:59:56 10.71.57.0 u111365691 [10.71.57.0|get|1|39375|0|0|0|2f6d61696e2e706870|]
+Apr 21 11:59:56 10.71.56.0 u111365691 open "/price.php" flags READ mode 0666
+Apr 21 11:59:56 10.71.57.0 u111365691 open "/process.php" flags READ mode 0666
+Apr 21 11:59:58 10.71.56.0 u111365691 close "/price.php" bytes read 3031 written 0
+Apr 21 11:59:58 10.71.56.0 u111365691 [10.71.56.0|get|2|3031|0|0|0|2f70726963652e706870|]
+Apr 21 11:59:58 10.71.57.0 u111365691 close "/process.php" bytes read 2720 written 0
+Apr 21 11:59:58 10.71.57.0 u111365691 [10.71.57.0|get|2|2720|0|0|0|2f70726f636573732e706870|]
+Apr 21 11:59:58 10.71.56.0 u111365691 open "/product.php" flags READ mode 0666
+Apr 21 11:59:58 10.71.57.0 u111365691 open "/product_registration.php" flags READ mode 0666
+Apr 21 11:59:59 10.71.57.0 u111365691 close "/product_registration.php" bytes read 5167 written 0
+Apr 21 11:59:59 10.71.57.0 u111365691 [10.71.57.0|get|1|5167|0|0|0|2f70726f647563745f726567697374726174696f6e2e706870|]
+Apr 21 11:59:59 10.71.56.0 u111365691 close "/product.php" bytes read 10539 written 0
+Apr 21 11:59:59 10.71.56.0 u111365691 [10.71.56.0|get|1|10539|0|0|0|2f70726f647563742e706870|]
+Apr 21 12:00:00 10.71.57.0 u111365691 open "/team.php" flags READ mode 0666
+Apr 21 12:00:00 10.71.56.0 u111365691 open "/thankyou.php" flags READ mode 0666
+Apr 21 12:00:01 10.71.56.0 u111365691 close "/thankyou.php" bytes read 1553 written 0
+Apr 21 12:00:01 10.71.56.0 u111365691 [10.71.56.0|get|1|1553|0|0|0|2f7468616e6b796f752e706870|]
+Apr 21 12:00:01 10.71.57.0 u111365691 close "/team.php" bytes read 15305 written 0
+Apr 21 12:00:01 10.71.57.0 u111365691 [10.71.57.0|get|1|15305|0|0|0|2f7465616d2e706870|]
+Apr 21 12:00:03 10.71.56.0 u111365691 open "/css/transitions.css" flags READ mode 0666
+Apr 21 12:00:03 10.71.57.0 u111365691 open "/css/responsive.css" flags READ mode 0666
+Apr 21 12:00:04 10.71.56.0 u111365691 close "/css/transitions.css" bytes read 5592 written 0
+Apr 21 12:00:04 10.71.56.0 u111365691 [10.71.56.0|get|1|5592|0|0|0|2f6373732f7472616e736974696f6e732e637373|]
+Apr 21 12:00:04 10.71.57.0 u111365691 close "/css/responsive.css" bytes read 10122 written 0
+Apr 21 12:00:04 10.71.57.0 u111365691 [10.71.57.0|get|1|10122|0|0|0|2f6373732f726573706f6e736976652e637373|]
+Apr 21 12:00:05 10.71.56.0 u111365691 open "/css/prettyPhoto.css" flags READ mode 0666
+Apr 21 12:00:05 10.71.57.0 u111365691 open "/css/owl.carousel.css" flags READ mode 0666
+Apr 21 12:00:06 10.71.56.0 u111365691 close "/css/prettyPhoto.css" bytes read 19888 written 0
+Apr 21 12:00:06 10.71.56.0 u111365691 [10.71.56.0|get|1|19888|0|0|0|2f6373732f70726574747950686f746f2e637373|]
+Apr 21 12:00:06 10.71.57.0 u111365691 close "/css/owl.carousel.css" bytes read 1477 written 0
+Apr 21 12:00:06 10.71.57.0 u111365691 [10.71.57.0|get|1|1477|0|0|0|2f6373732f6f776c2e6361726f7573656c2e637373|]
+Apr 21 12:00:07 10.71.56.0 u111365691 open "/css/owl.theme.css" flags READ mode 0666
+Apr 21 12:00:07 10.71.57.0 u111365691 open "/css/main.css" flags READ mode 0666
+Apr 21 12:00:08 10.71.56.0 u111365691 close "/css/owl.theme.css" bytes read 1548 written 0
+Apr 21 12:00:08 10.71.56.0 u111365691 [10.71.56.0|get|1|1548|0|0|0|2f6373732f6f776c2e7468656d652e637373|]
+Apr 21 12:00:08 10.71.57.0 u111365691 close "/css/main.css" bytes read 83850 written 0
+Apr 21 12:00:08 10.71.57.0 u111365691 [10.71.57.0|get|1|83850|0|0|0|2f6373732f6d61696e2e637373|]
+Apr 21 12:00:09 10.71.56.0 u111365691 open "/css/normalize.css" flags READ mode 0666
+Apr 21 12:00:09 10.71.57.0 u111365691 open "/css/icomoon.css" flags READ mode 0666
+Apr 21 12:00:09 10.71.56.0 u111365691 close "/css/normalize.css" bytes read 7881 written 0
+Apr 21 12:00:09 10.71.56.0 u111365691 [10.71.56.0|get|0|7881|0|0|0|2f6373732f6e6f726d616c697a652e637373|]
+Apr 21 12:00:10 10.71.57.0 u111365691 close "/css/icomoon.css" bytes read 806 written 0
+Apr 21 12:00:10 10.71.57.0 u111365691 [10.71.57.0|get|1|806|0|0|0|2f6373732f69636f6d6f6f6e2e637373|]
+Apr 21 12:00:10 10.71.56.0 u111365691 open "/css/grabbing.html" flags READ mode 0666
+Apr 21 12:00:11 10.71.57.0 u111365691 open "/css/font-awesome.min.css" flags READ mode 0666
+Apr 21 12:00:11 10.71.56.0 u111365691 close "/css/grabbing.html" bytes read 11816 written 0
+Apr 21 12:00:11 10.71.56.0 u111365691 [10.71.56.0|get|1|11816|0|0|0|2f6373732f6772616262696e672e68746d6c|]
+Apr 21 12:00:12 10.71.57.0 u111365691 close "/css/font-awesome.min.css" bytes read 28782 written 0
+Apr 21 12:00:12 10.71.57.0 u111365691 [10.71.57.0|get|1|28782|0|0|0|2f6373732f666f6e742d617765736f6d652e6d696e2e637373|]
+Apr 21 12:00:12 10.71.56.0 u111365691 open "/css/color.css" flags READ mode 0666
+Apr 21 12:00:13 10.71.57.0 u111365691 open "/css/AjaxLoader.html" flags READ mode 0666
+Apr 21 12:00:13 10.71.56.0 u111365691 close "/css/color.css" bytes read 4578 written 0
+Apr 21 12:00:13 10.71.56.0 u111365691 [10.71.56.0|get|1|4578|0|0|0|2f6373732f636f6c6f722e637373|]
+Apr 21 12:00:13 10.71.57.0 u111365691 close "/css/AjaxLoader.html" bytes read 11816 written 0
+Apr 21 12:00:13 10.71.57.0 u111365691 [10.71.57.0|get|0|11816|0|0|0|2f6373732f416a61784c6f616465722e68746d6c|]
+Apr 21 12:00:14 10.71.56.0 u111365691 open "/css/bootstrap.min.css" flags READ mode 0666
+Apr 21 12:00:15 10.71.56.0 u111365691 close "/css/bootstrap.min.css" bytes read 121264 written 0
+Apr 21 12:00:15 10.71.56.0 u111365691 [10.71.56.0|get|1|121264|0|0|0|2f6373732f626f6f7473747261702e6d696e2e637373|]
+Apr 21 12:00:15 10.71.57.0 u111365691 open "/documentation/index.html" flags READ mode 0666
+Apr 21 12:00:16 10.71.57.0 u111365691 close "/documentation/index.html" bytes read 25578 written 0
+Apr 21 12:00:16 10.71.57.0 u111365691 [10.71.57.0|get|1|25578|0|0|0|2f646f63756d656e746174696f6e2f696e6465782e68746d6c|]
+Apr 21 12:00:17 10.71.56.0 u111365691 open "/documentation/assets/css/documenter_style.css" flags READ mode 0666
+Apr 21 12:00:18 10.71.56.0 u111365691 close "/documentation/assets/css/documenter_style.css" bytes read 9039 written 0
+Apr 21 12:00:18 10.71.56.0 u111365691 [10.71.56.0|get|1|9039|0|0|0|2f646f63756d656e746174696f6e2f6173736574732f6373732f646f63756d656e7465725f7374796c652e637373|]
+Apr 21 12:00:18 10.71.57.0 u111365691 open "/documentation/assets/css/img/info.png" flags READ mode 0666
+Apr 21 12:00:19 10.71.57.0 u111365691 close "/documentation/assets/css/img/info.png" bytes read 686 written 0
+Apr 21 12:00:19 10.71.57.0 u111365691 [10.71.57.0|get|1|686|0|0|0|2f646f63756d656e746174696f6e2f6173736574732f6373732f696d672f696e666f2e706e67|]
+Apr 21 12:00:20 10.71.56.0 u111365691 open "/documentation/assets/css/img/warning.png" flags READ mode 0666
+Apr 21 12:00:21 10.71.56.0 u111365691 close "/documentation/assets/css/img/warning.png" bytes read 607 written 0
+Apr 21 12:00:21 10.71.56.0 u111365691 [10.71.56.0|get|1|607|0|0|0|2f646f63756d656e746174696f6e2f6173736574732f6373732f696d672f7761726e696e672e706e67|]
+Apr 21 12:00:21 10.71.57.0 u111365691 open "/documentation/assets/images/logo.png" flags READ mode 0666
+Apr 21 12:00:22 10.71.56.0 u111365691 open "/documentation/assets/images/image_8.png" flags READ mode 0666
+Apr 21 12:00:23 10.71.57.0 u111365691 close "/documentation/assets/images/logo.png" bytes read 2326 written 0
+Apr 21 12:00:23 10.71.57.0 u111365691 [10.71.57.0|get|2|2326|0|0|0|2f646f63756d656e746174696f6e2f6173736574732f696d616765732f6c6f676f2e706e67|]
+Apr 21 12:00:24 10.71.56.0 u111365691 close "/documentation/assets/images/image_8.png" bytes read 62438 written 0
+Apr 21 12:00:24 10.71.56.0 u111365691 [10.71.56.0|get|1|62438|0|0|0|2f646f63756d656e746174696f6e2f6173736574732f696d616765732f696d6167655f382e706e67|]
+Apr 21 12:00:24 10.71.57.0 u111365691 open "/documentation/assets/images/image_4.png" flags READ mode 0666
+Apr 21 12:00:25 10.71.56.0 u111365691 open "/documentation/assets/images/image_3.png" flags READ mode 0666
+Apr 21 12:00:25 10.71.57.0 u111365691 close "/documentation/assets/images/image_4.png" bytes read 53083 written 0
+Apr 21 12:00:25 10.71.57.0 u111365691 [10.71.57.0|get|2|53083|0|0|0|2f646f63756d656e746174696f6e2f6173736574732f696d616765732f696d6167655f342e706e67|]
+Apr 21 12:00:25 10.71.57.0 u111365691 open "/documentation/assets/images/image_1.png" flags READ mode 0666
+Apr 21 12:00:26 10.71.56.0 u111365691 close "/documentation/assets/images/image_3.png" bytes read 34630 written 0
+Apr 21 12:00:26 10.71.56.0 u111365691 [10.71.56.0|get|1|34630|0|0|0|2f646f63756d656e746174696f6e2f6173736574732f696d616765732f696d6167655f332e706e67|]
+Apr 21 12:00:26 10.71.56.0 u111365691 open "/documentation/assets/images/image_2.png" flags READ mode 0666
+Apr 21 12:00:27 10.71.57.0 u111365691 close "/documentation/assets/images/image_1.png" bytes read 15915 written 0
+Apr 21 12:00:27 10.71.57.0 u111365691 [10.71.57.0|get|2|15915|0|0|0|2f646f63756d656e746174696f6e2f6173736574732f696d616765732f696d6167655f312e706e67|]
+Apr 21 12:00:27 10.71.56.0 u111365691 close "/documentation/assets/images/image_2.png" bytes read 23091 written 0
+Apr 21 12:00:27 10.71.56.0 u111365691 [10.71.56.0|get|1|23091|0|0|0|2f646f63756d656e746174696f6e2f6173736574732f696d616765732f696d6167655f322e706e67|]
+Apr 21 12:00:28 10.71.57.0 u111365691 open "/documentation/assets/images/favicon.ico" flags READ mode 0666
+Apr 21 12:00:28 10.71.57.0 u111365691 close "/documentation/assets/images/favicon.ico" bytes read 1150 written 0
+Apr 21 12:00:28 10.71.57.0 u111365691 [10.71.57.0|get|0|1150|0|0|0|2f646f63756d656e746174696f6e2f6173736574732f696d616765732f66617669636f6e2e69636f|]
+Apr 21 12:00:29 10.71.56.0 u111365691 open "/documentation/assets/js/script.js" flags READ mode 0666
+Apr 21 12:00:30 10.71.56.0 u111365691 close "/documentation/assets/js/script.js" bytes read 3782 written 0
+Apr 21 12:00:30 10.71.56.0 u111365691 [10.71.56.0|get|1|3782|0|0|0|2f646f63756d656e746174696f6e2f6173736574732f6a732f7363726970742e6a73|]
+Apr 21 12:00:30 10.71.57.0 u111365691 open "/documentation/assets/js/jquery.scrollTo.js" flags READ mode 0666
+Apr 21 12:00:30 10.71.56.0 u111365691 open "/documentation/assets/js/jquery.js" flags READ mode 0666
+Apr 21 12:00:31 10.71.57.0 u111365691 close "/documentation/assets/js/jquery.scrollTo.js" bytes read 5707 written 0
+Apr 21 12:00:31 10.71.57.0 u111365691 [10.71.57.0|get|1|5707|0|0|0|2f646f63756d656e746174696f6e2f6173736574732f6a732f6a71756572792e7363726f6c6c546f2e6a73|]
+Apr 21 12:00:32 10.71.56.0 u111365691 close "/documentation/assets/js/jquery.js" bytes read 267194 written 0
+Apr 21 12:00:32 10.71.56.0 u111365691 [10.71.56.0|get|2|267194|0|0|0|2f646f63756d656e746174696f6e2f6173736574732f6a732f6a71756572792e6a73|]
+Apr 21 12:00:32 10.71.57.0 u111365691 open "/documentation/assets/js/jquery.easing.js" flags READ mode 0666
+Apr 21 12:00:33 10.71.57.0 u111365691 close "/documentation/assets/js/jquery.easing.js" bytes read 8301 written 0
+Apr 21 12:00:33 10.71.57.0 u111365691 [10.71.57.0|get|1|8301|0|0|0|2f646f63756d656e746174696f6e2f6173736574732f6a732f6a71756572792e656173696e672e6a73|]
+Apr 21 12:00:33 10.71.56.0 u111365691 open "/documentation/assets/js/google-code-prettify/prettify.js" flags READ mode 0666
+Apr 21 12:00:34 10.71.56.0 u111365691 close "/documentation/assets/js/google-code-prettify/prettify.js" bytes read 13632 written 0
+Apr 21 12:00:34 10.71.56.0 u111365691 [10.71.56.0|get|1|13632|0|0|0|2f646f63756d656e746174696f6e2f6173736574732f6a732f676f6f676c652d636f64652d70726574746966792f70726574746966792e6a73|]
+Apr 21 12:00:35 10.71.57.0 u111365691 open "/documentation/assets/js/google-code-prettify/prettify.css" flags READ mode 0666
+Apr 21 12:00:36 10.71.57.0 u111365691 close "/documentation/assets/js/google-code-prettify/prettify.css" bytes read 815 written 0
+Apr 21 12:00:36 10.71.57.0 u111365691 [10.71.57.0|get|1|815|0|0|0|2f646f63756d656e746174696f6e2f6173736574732f6a732f676f6f676c652d636f64652d70726574746966792f70726574746966792e637373|]
+Apr 21 12:00:36 10.71.56.0 u111365691 open "/fonts/icomoonebc0.woff" flags READ mode 0666
+Apr 21 12:00:37 10.71.56.0 u111365691 close "/fonts/icomoonebc0.woff" bytes read 2296 written 0
+Apr 21 12:00:37 10.71.56.0 u111365691 [10.71.56.0|get|1|2296|0|0|0|2f666f6e74732f69636f6d6f6f6e656263302e776f6666|]
+Apr 21 12:00:37 10.71.57.0 u111365691 open "/fonts/icomoonebc0.ttf" flags READ mode 0666
+Apr 21 12:00:38 10.71.56.0 u111365691 open "/fonts/icomoonebc0.svg" flags READ mode 0666
+Apr 21 12:00:38 10.71.57.0 u111365691 close "/fonts/icomoonebc0.ttf" bytes read 2220 written 0
+Apr 21 12:00:38 10.71.57.0 u111365691 [10.71.57.0|get|1|2220|0|0|0|2f666f6e74732f69636f6d6f6f6e656263302e747466|]
+Apr 21 12:00:39 10.71.56.0 u111365691 close "/fonts/icomoonebc0.svg" bytes read 5389 written 0
+Apr 21 12:00:39 10.71.56.0 u111365691 [10.71.56.0|get|1|5389|0|0|0|2f666f6e74732f69636f6d6f6f6e656263302e737667|]
+Apr 21 12:00:39 10.71.57.0 u111365691 open "/fonts/icomoonebc0.eot" flags READ mode 0666
+Apr 21 12:00:39 10.71.56.0 u111365691 open "/fonts/glyphicons-halflings-regulard41d.eot" flags READ mode 0666
+Apr 21 12:00:40 10.71.57.0 u111365691 close "/fonts/icomoonebc0.eot" bytes read 2384 written 0
+Apr 21 12:00:40 10.71.57.0 u111365691 [10.71.57.0|get|1|2384|0|0|0|2f666f6e74732f69636f6d6f6f6e656263302e656f74|]
+Apr 21 12:00:40 10.71.56.0 u111365691 close "/fonts/glyphicons-halflings-regulard41d.eot" bytes read 20127 written 0
+Apr 21 12:00:40 10.71.56.0 u111365691 [10.71.56.0|get|1|20127|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c6172643431642e656f74|]
+Apr 21 12:00:41 10.71.57.0 u111365691 open "/fonts/glyphicons-halflings-regular.woff2" flags READ mode 0666
+Apr 21 12:00:41 10.71.56.0 u111365691 open "/fonts/glyphicons-halflings-regular.woff" flags READ mode 0666
+Apr 21 12:00:42 10.71.57.0 u111365691 close "/fonts/glyphicons-halflings-regular.woff2" bytes read 18028 written 0
+Apr 21 12:00:42 10.71.57.0 u111365691 [10.71.57.0|get|1|18028|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e776f666632|]
+Apr 21 12:00:42 10.71.56.0 u111365691 close "/fonts/glyphicons-halflings-regular.woff" bytes read 23424 written 0
+Apr 21 12:00:42 10.71.56.0 u111365691 [10.71.56.0|get|1|23424|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e776f6666|]
+Apr 21 12:00:43 10.71.57.0 u111365691 open "/fonts/glyphicons-halflings-regular.ttf" flags READ mode 0666
+Apr 21 12:00:43 10.71.56.0 u111365691 open "/fonts/glyphicons-halflings-regular.svg" flags READ mode 0666
+Apr 21 12:00:44 10.71.57.0 u111365691 close "/fonts/glyphicons-halflings-regular.ttf" bytes read 45404 written 0
+Apr 21 12:00:44 10.71.57.0 u111365691 [10.71.57.0|get|1|45404|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e747466|]
+Apr 21 12:00:44 10.71.56.0 u111365691 close "/fonts/glyphicons-halflings-regular.svg" bytes read 108738 written 0
+Apr 21 12:00:44 10.71.56.0 u111365691 [10.71.56.0|get|1|108738|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e737667|]
+Apr 21 12:00:45 10.71.57.0 u111365691 open "/fonts/glyphicons-halflings-regular.eot" flags READ mode 0666
+Apr 21 12:00:45 10.71.56.0 u111365691 open "/fonts/fontawesome-webfontd41d.eot" flags READ mode 0666
+Apr 21 12:00:46 10.71.57.0 u111365691 close "/fonts/glyphicons-halflings-regular.eot" bytes read 20127 written 0
+Apr 21 12:00:46 10.71.57.0 u111365691 [10.71.57.0|get|1|20127|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e656f74|]
+Apr 21 12:00:46 10.71.56.0 u111365691 close "/fonts/fontawesome-webfontd41d.eot" bytes read 75220 written 0
+Apr 21 12:00:46 10.71.56.0 u111365691 [10.71.56.0|get|1|75220|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e74643431642e656f74|]
+Apr 21 12:00:46 10.71.57.0 u111365691 open "/fonts/fontawesome-webfont914c.woff2" flags READ mode 0666
+Apr 21 12:00:47 10.71.56.0 u111365691 open "/fonts/fontawesome-webfont914c.woff" flags READ mode 0666
+Apr 21 12:00:47 10.71.57.0 u111365691 close "/fonts/fontawesome-webfont914c.woff2" bytes read 70728 written 0
+Apr 21 12:00:47 10.71.57.0 u111365691 [10.71.57.0|get|1|70728|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e74393134632e776f666632|]
+Apr 21 12:00:47 10.71.56.0 u111365691 close "/fonts/fontawesome-webfont914c.woff" bytes read 89076 written 0
+Apr 21 12:00:47 10.71.56.0 u111365691 [10.71.56.0|get|0|89076|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e74393134632e776f6666|]
+Apr 21 12:00:48 10.71.57.0 u111365691 open "/fonts/fontawesome-webfont914c.svg" flags READ mode 0666
+Apr 21 12:00:49 10.71.56.0 u111365691 open "/fonts/fontawesome-webfont914c.ttf" flags READ mode 0666
+Apr 21 12:00:50 10.71.56.0 u111365691 close "/fonts/fontawesome-webfont914c.ttf" bytes read 150920 written 0
+Apr 21 12:00:50 10.71.56.0 u111365691 [10.71.56.0|get|1|150920|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e74393134632e747466|]
+Apr 21 12:00:50 10.71.57.0 u111365691 close "/fonts/fontawesome-webfont914c.svg" bytes read 386421 written 0
+Apr 21 12:00:50 10.71.57.0 u111365691 [10.71.57.0|get|2|386421|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e74393134632e737667|]
+Apr 21 12:00:50 10.71.56.0 u111365691 open "/fonts/fontawesome-webfont914c.eot" flags READ mode 0666
+Apr 21 12:00:51 10.71.56.0 u111365691 close "/fonts/fontawesome-webfont914c.eot" bytes read 75220 written 0
+Apr 21 12:00:51 10.71.56.0 u111365691 [10.71.56.0|get|1|75220|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e74393134632e656f74|]
+Apr 21 12:00:51 10.71.57.0 u111365691 open "/images/imgdesign.png" flags READ mode 0666
+Apr 21 12:00:53 10.71.56.0 u111365691 open "/images/t.jpg" flags READ mode 0666
+Apr 21 12:00:53 10.71.57.0 u111365691 close "/images/imgdesign.png" bytes read 273937 written 0
+Apr 21 12:00:53 10.71.57.0 u111365691 [10.71.57.0|get|2|273937|0|0|0|2f696d616765732f696d6764657369676e2e706e67|]
+Apr 21 12:00:54 10.71.56.0 u111365691 close "/images/t.jpg" bytes read 6385 written 0
+Apr 21 12:00:54 10.71.56.0 u111365691 [10.71.56.0|get|1|6385|0|0|0|2f696d616765732f742e6a7067|]
+Apr 21 12:00:54 10.71.57.0 u111365691 open "/images/logo2.png" flags READ mode 0666
+Apr 21 12:00:55 10.71.56.0 u111365691 open "/images/logo.png" flags READ mode 0666
+Apr 21 12:00:55 10.71.57.0 u111365691 close "/images/logo2.png" bytes read 3682 written 0
+Apr 21 12:00:55 10.71.57.0 u111365691 [10.71.57.0|get|1|3682|0|0|0|2f696d616765732f6c6f676f322e706e67|]
+Apr 21 12:00:56 10.71.56.0 u111365691 close "/images/logo.png" bytes read 3489 written 0
+Apr 21 12:00:56 10.71.56.0 u111365691 [10.71.56.0|get|1|3489|0|0|0|2f696d616765732f6c6f676f2e706e67|]
+Apr 21 12:00:56 10.71.57.0 u111365691 open "/images/logo 111samp.png" flags READ mode 0666
+Apr 21 12:00:57 10.71.56.0 u111365691 open "/images/img-06.png" flags READ mode 0666
+Apr 21 12:00:57 10.71.57.0 u111365691 close "/images/logo 111samp.png" bytes read 96137 written 0
+Apr 21 12:00:57 10.71.57.0 u111365691 [10.71.57.0|get|1|96137|0|0|0|2f696d616765732f6c6f676f2031313173616d702e706e67|]
+Apr 21 12:00:57 10.71.56.0 u111365691 close "/images/img-06.png" bytes read 22123 written 0
+Apr 21 12:00:57 10.71.56.0 u111365691 [10.71.56.0|get|0|22123|0|0|0|2f696d616765732f696d672d30362e706e67|]
+Apr 21 12:00:58 10.71.57.0 u111365691 open "/images/img-05.jpg" flags READ mode 0666
+Apr 21 12:00:58 10.71.56.0 u111365691 open "/images/img-04.jpg" flags READ mode 0666
+Apr 21 12:00:59 10.71.57.0 u111365691 close "/images/img-05.jpg" bytes read 15289 written 0
+Apr 21 12:00:59 10.71.57.0 u111365691 [10.71.57.0|get|1|15289|0|0|0|2f696d616765732f696d672d30352e6a7067|]
+Apr 21 12:00:59 10.71.56.0 u111365691 close "/images/img-04.jpg" bytes read 8323 written 0
+Apr 21 12:00:59 10.71.56.0 u111365691 [10.71.56.0|get|1|8323|0|0|0|2f696d616765732f696d672d30342e6a7067|]
+Apr 21 12:00:59 10.71.57.0 u111365691 open "/images/img-03.jpg" flags READ mode 0666
+Apr 21 12:01:00 10.71.56.0 u111365691 open "/images/img-02.png" flags READ mode 0666
+Apr 21 12:01:00 10.71.57.0 u111365691 close "/images/img-03.jpg" bytes read 30282 written 0
+Apr 21 12:01:00 10.71.57.0 u111365691 [10.71.57.0|get|1|30282|0|0|0|2f696d616765732f696d672d30332e6a7067|]
+Apr 21 12:01:01 10.71.56.0 u111365691 close "/images/img-02.png" bytes read 276912 written 0
+Apr 21 12:01:01 10.71.56.0 u111365691 [10.71.56.0|get|1|276912|0|0|0|2f696d616765732f696d672d30322e706e67|]
+Apr 21 12:01:01 10.71.57.0 u111365691 open "/images/img-01.svg" flags READ mode 0666
+Apr 21 12:01:02 10.71.56.0 u111365691 open "/images/img-01.jpg" flags READ mode 0666
+Apr 21 12:01:02 10.71.57.0 u111365691 close "/images/img-01.svg" bytes read 582 written 0
+Apr 21 12:01:02 10.71.57.0 u111365691 [10.71.57.0|get|1|582|0|0|0|2f696d616765732f696d672d30312e737667|]
+Apr 21 12:01:03 10.71.56.0 u111365691 close "/images/img-01.jpg" bytes read 75171 written 0
+Apr 21 12:01:03 10.71.56.0 u111365691 [10.71.56.0|get|1|75171|0|0|0|2f696d616765732f696d672d30312e6a7067|]
+Apr 21 12:01:03 10.71.57.0 u111365691 open "/images/flogo.png" flags READ mode 0666
+Apr 21 12:01:03 10.71.56.0 u111365691 open "/images/coniasoft.png" flags READ mode 0666
+Apr 21 12:01:04 10.71.57.0 u111365691 close "/images/flogo.png" bytes read 3162 written 0
+Apr 21 12:01:04 10.71.57.0 u111365691 [10.71.57.0|get|1|3162|0|0|0|2f696d616765732f666c6f676f2e706e67|]
+Apr 21 12:01:04 10.71.56.0 u111365691 close "/images/coniasoft.png" bytes read 263933 written 0
+Apr 21 12:01:04 10.71.56.0 u111365691 [10.71.56.0|get|1|263933|0|0|0|2f696d616765732f636f6e6961736f66742e706e67|]
+Apr 21 12:01:05 10.71.57.0 u111365691 open "/images/Conia soft Original logo.png" flags READ mode 0666
+Apr 21 12:01:05 10.71.56.0 u111365691 open "/images/Conia soft logo.png" flags READ mode 0666
+Apr 21 12:01:06 10.71.57.0 u111365691 close "/images/Conia soft Original logo.png" bytes read 294535 written 0
+Apr 21 12:01:06 10.71.57.0 u111365691 [10.71.57.0|get|1|294535|0|0|0|2f696d616765732f436f6e696120736f6674204f726967696e616c206c6f676f2e706e67|]
+Apr 21 12:01:06 10.71.56.0 u111365691 close "/images/Conia soft logo.png" bytes read 185164 written 0
+Apr 21 12:01:06 10.71.56.0 u111365691 [10.71.56.0|get|1|185164|0|0|0|2f696d616765732f436f6e696120736f6674206c6f676f2e706e67|]
+Apr 21 12:01:07 10.71.57.0 u111365691 open "/images/Conia soft logo copy.png" flags READ mode 0666
+Apr 21 12:01:07 10.71.56.0 u111365691 open "/images/Conia soft logo (2).png" flags READ mode 0666
+Apr 21 12:01:08 10.71.57.0 u111365691 close "/images/Conia soft logo copy.png" bytes read 50544 written 0
+Apr 21 12:01:08 10.71.57.0 u111365691 [10.71.57.0|get|1|50544|0|0|0|2f696d616765732f436f6e696120736f6674206c6f676f20636f70792e706e67|]
+Apr 21 12:01:08 10.71.56.0 u111365691 close "/images/Conia soft logo (2).png" bytes read 165479 written 0
+Apr 21 12:01:08 10.71.56.0 u111365691 [10.71.56.0|get|1|165479|0|0|0|2f696d616765732f436f6e696120736f6674206c6f676f202832292e706e67|]
+Apr 21 12:01:08 10.71.57.0 u111365691 open "/images/Conia soft logo (1).png" flags READ mode 0666
+Apr 21 12:01:09 10.71.56.0 u111365691 open "/images/com.png" flags READ mode 0666
+Apr 21 12:01:09 10.71.57.0 u111365691 close "/images/Conia soft logo (1).png" bytes read 56099 written 0
+Apr 21 12:01:09 10.71.57.0 u111365691 [10.71.57.0|get|1|56099|0|0|0|2f696d616765732f436f6e696120736f6674206c6f676f202831292e706e67|]
+Apr 21 12:01:10 10.71.56.0 u111365691 close "/images/com.png" bytes read 46485 written 0
+Apr 21 12:01:10 10.71.56.0 u111365691 [10.71.56.0|get|1|46485|0|0|0|2f696d616765732f636f6d2e706e67|]
+Apr 21 12:01:10 10.71.57.0 u111365691 open "/images/bgcommingsoon.jpg" flags READ mode 0666
+Apr 21 12:01:11 10.71.56.0 u111365691 open "/images/404.svg" flags READ mode 0666
+Apr 21 12:01:11 10.71.57.0 u111365691 close "/images/bgcommingsoon.jpg" bytes read 224258 written 0
+Apr 21 12:01:11 10.71.57.0 u111365691 [10.71.57.0|get|1|224258|0|0|0|2f696d616765732f6267636f6d6d696e67736f6f6e2e6a7067|]
+Apr 21 12:01:12 10.71.56.0 u111365691 close "/images/404.svg" bytes read 22678 written 0
+Apr 21 12:01:12 10.71.56.0 u111365691 [10.71.56.0|get|1|22678|0|0|0|2f696d616765732f3430342e737667|]
+Apr 21 12:01:12 10.71.57.0 u111365691 open "/images/bg-01.png" flags READ mode 0666
+Apr 21 12:01:13 10.71.56.0 u111365691 open "/images/authors/img-03.jpg" flags READ mode 0666
+Apr 21 12:01:14 10.71.57.0 u111365691 close "/images/bg-01.png" bytes read 162194 written 0
+Apr 21 12:01:14 10.71.57.0 u111365691 [10.71.57.0|get|2|162194|0|0|0|2f696d616765732f62672d30312e706e67|]
+Apr 21 12:01:15 10.71.56.0 u111365691 close "/images/authors/img-03.jpg" bytes read 7172 written 0
+Apr 21 12:01:15 10.71.56.0 u111365691 [10.71.56.0|get|2|7172|0|0|0|2f696d616765732f617574686f72732f696d672d30332e6a7067|]
+Apr 21 12:01:15 10.71.57.0 u111365691 open "/images/authors/img-02.jpg" flags READ mode 0666
+Apr 21 12:01:16 10.71.56.0 u111365691 open "/images/authors/img-01.jpg" flags READ mode 0666
+Apr 21 12:01:16 10.71.57.0 u111365691 close "/images/authors/img-02.jpg" bytes read 8211 written 0
+Apr 21 12:01:16 10.71.57.0 u111365691 [10.71.57.0|get|1|8211|0|0|0|2f696d616765732f617574686f72732f696d672d30322e6a7067|]
+Apr 21 12:01:17 10.71.56.0 u111365691 close "/images/authors/img-01.jpg" bytes read 5562 written 0
+Apr 21 12:01:17 10.71.56.0 u111365691 [10.71.56.0|get|1|5562|0|0|0|2f696d616765732f617574686f72732f696d672d30312e6a7067|]
+Apr 21 12:01:18 10.71.57.0 u111365691 open "/images/brands/img-03.png" flags READ mode 0666
+Apr 21 12:01:18 10.71.56.0 u111365691 open "/images/brands/img-04.png" flags READ mode 0666
+Apr 21 12:01:18 10.71.57.0 u111365691 close "/images/brands/img-03.png" bytes read 6250 written 0
+Apr 21 12:01:18 10.71.57.0 u111365691 [10.71.57.0|get|0|6250|0|0|0|2f696d616765732f6272616e64732f696d672d30332e706e67|]
+Apr 21 12:01:19 10.71.56.0 u111365691 close "/images/brands/img-04.png" bytes read 6640 written 0
+Apr 21 12:01:19 10.71.56.0 u111365691 [10.71.56.0|get|1|6640|0|0|0|2f696d616765732f6272616e64732f696d672d30342e706e67|]
+Apr 21 12:01:19 10.71.57.0 u111365691 open "/images/brands/img-01.png" flags READ mode 0666
+Apr 21 12:01:20 10.71.56.0 u111365691 open "/images/brands/img-02.png" flags READ mode 0666
+Apr 21 12:01:20 10.71.57.0 u111365691 close "/images/brands/img-01.png" bytes read 5949 written 0
+Apr 21 12:01:20 10.71.57.0 u111365691 [10.71.57.0|get|1|5949|0|0|0|2f696d616765732f6272616e64732f696d672d30312e706e67|]
+Apr 21 12:01:20 10.71.56.0 u111365691 sent status No such file
+Apr 21 12:01:21 10.71.56.0 u111365691 close "/images/brands/img-02.png" bytes read 6574 written 0
+Apr 21 12:01:21 10.71.56.0 u111365691 [10.71.56.0|get|1|6574|0|0|0|2f696d616765732f6272616e64732f696d672d30322e706e67|]
+Apr 21 12:01:22 10.71.57.0 u111365691 open "/images/events/img-10.jpg" flags READ mode 0666
+Apr 21 12:01:23 10.71.56.0 u111365691 open "/images/events/img-09.jpg" flags READ mode 0666
+Apr 21 12:01:23 10.71.57.0 u111365691 close "/images/events/img-10.jpg" bytes read 50617 written 0
+Apr 21 12:01:23 10.71.57.0 u111365691 [10.71.57.0|get|1|50617|0|0|0|2f696d616765732f6576656e74732f696d672d31302e6a7067|]
+Apr 21 12:01:23 10.71.57.0 u111365691 open "/images/events/img-08.jpg" flags READ mode 0666
+Apr 21 12:01:23 10.71.56.0 u111365691 close "/images/events/img-09.jpg" bytes read 24294 written 0
+Apr 21 12:01:23 10.71.56.0 u111365691 [10.71.56.0|get|0|24294|0|0|0|2f696d616765732f6576656e74732f696d672d30392e6a7067|]
+Apr 21 12:01:24 10.71.56.0 u111365691 open "/images/events/img-07.jpg" flags READ mode 0666
+Apr 21 12:01:26 10.71.57.0 u111365691 close "/images/events/img-08.jpg" bytes read 22458 written 0
+Apr 21 12:01:26 10.71.57.0 u111365691 [10.71.57.0|get|3|22458|0|0|0|2f696d616765732f6576656e74732f696d672d30382e6a7067|]
+Apr 21 12:01:27 10.71.57.0 u111365691 open "/images/events/img-06.jpg" flags READ mode 0666
+Apr 21 12:01:27 10.71.56.0 u111365691 close "/images/events/img-07.jpg" bytes read 24008 written 0
+Apr 21 12:01:27 10.71.56.0 u111365691 [10.71.56.0|get|3|24008|0|0|0|2f696d616765732f6576656e74732f696d672d30372e6a7067|]
+Apr 21 12:01:28 10.71.57.0 u111365691 close "/images/events/img-06.jpg" bytes read 17510 written 0
+Apr 21 12:01:28 10.71.57.0 u111365691 [10.71.57.0|get|1|17510|0|0|0|2f696d616765732f6576656e74732f696d672d30362e6a7067|]
+Apr 21 12:01:28 10.71.56.0 u111365691 open "/images/events/img-05.jpg" flags READ mode 0666
+Apr 21 12:01:29 10.71.56.0 u111365691 close "/images/events/img-05.jpg" bytes read 12902 written 0
+Apr 21 12:01:29 10.71.56.0 u111365691 [10.71.56.0|get|1|12902|0|0|0|2f696d616765732f6576656e74732f696d672d30352e6a7067|]
+Apr 21 12:01:29 10.71.57.0 u111365691 open "/images/events/img-04.jpg" flags READ mode 0666
+Apr 21 12:01:30 10.71.56.0 u111365691 open "/images/events/img-03.jpg" flags READ mode 0666
+Apr 21 12:01:30 10.71.57.0 u111365691 close "/images/events/img-04.jpg" bytes read 15999 written 0
+Apr 21 12:01:30 10.71.57.0 u111365691 [10.71.57.0|get|1|15999|0|0|0|2f696d616765732f6576656e74732f696d672d30342e6a7067|]
+Apr 21 12:01:31 10.71.56.0 u111365691 close "/images/events/img-03.jpg" bytes read 20887 written 0
+Apr 21 12:01:31 10.71.56.0 u111365691 [10.71.56.0|get|1|20887|0|0|0|2f696d616765732f6576656e74732f696d672d30332e6a7067|]
+Apr 21 12:01:31 10.71.57.0 u111365691 open "/images/events/img-02.jpg" flags READ mode 0666
+Apr 21 12:01:32 10.71.56.0 u111365691 open "/images/events/img-01.jpg" flags READ mode 0666
+Apr 21 12:01:32 10.71.57.0 u111365691 close "/images/events/img-02.jpg" bytes read 18801 written 0
+Apr 21 12:01:32 10.71.57.0 u111365691 [10.71.57.0|get|1|18801|0|0|0|2f696d616765732f6576656e74732f696d672d30322e6a7067|]
+Apr 21 12:01:32 10.71.56.0 u111365691 close "/images/events/img-01.jpg" bytes read 17407 written 0
+Apr 21 12:01:32 10.71.56.0 u111365691 [10.71.56.0|get|0|17407|0|0|0|2f696d616765732f6576656e74732f696d672d30312e6a7067|]
+Apr 21 12:01:33 10.71.57.0 u111365691 open "/images/gallery/img-04.jpg" flags READ mode 0666
+Apr 21 12:01:34 10.71.56.0 u111365691 open "/images/gallery/img-03.jpg" flags READ mode 0666
+Apr 21 12:01:34 10.71.57.0 u111365691 close "/images/gallery/img-04.jpg" bytes read 33947 written 0
+Apr 21 12:01:34 10.71.57.0 u111365691 [10.71.57.0|get|1|33947|0|0|0|2f696d616765732f67616c6c6572792f696d672d30342e6a7067|]
+Apr 21 12:01:35 10.71.56.0 u111365691 close "/images/gallery/img-03.jpg" bytes read 40433 written 0
+Apr 21 12:01:35 10.71.56.0 u111365691 [10.71.56.0|get|1|40433|0|0|0|2f696d616765732f67616c6c6572792f696d672d30332e6a7067|]
+Apr 21 12:01:35 10.71.57.0 u111365691 open "/images/gallery/img-02.jpg" flags READ mode 0666
+Apr 21 12:01:36 10.71.56.0 u111365691 open "/images/gallery/img-01.jpg" flags READ mode 0666
+Apr 21 12:01:36 10.71.57.0 u111365691 close "/images/gallery/img-02.jpg" bytes read 58394 written 0
+Apr 21 12:01:36 10.71.57.0 u111365691 [10.71.57.0|get|1|58394|0|0|0|2f696d616765732f67616c6c6572792f696d672d30322e6a7067|]
+Apr 21 12:01:37 10.71.56.0 u111365691 close "/images/gallery/img-01.jpg" bytes read 52395 written 0
+Apr 21 12:01:37 10.71.56.0 u111365691 [10.71.56.0|get|1|52395|0|0|0|2f696d616765732f67616c6c6572792f696d672d30312e6a7067|]
+Apr 21 12:01:38 10.71.57.0 u111365691 open "/images/news/img-10.jpg" flags READ mode 0666
+Apr 21 12:01:38 10.71.56.0 u111365691 open "/images/news/img-09.jpg" flags READ mode 0666
+Apr 21 12:01:39 10.71.57.0 u111365691 close "/images/news/img-10.jpg" bytes read 76865 written 0
+Apr 21 12:01:39 10.71.57.0 u111365691 [10.71.57.0|get|1|76865|0|0|0|2f696d616765732f6e6577732f696d672d31302e6a7067|]
+Apr 21 12:01:39 10.71.56.0 u111365691 close "/images/news/img-09.jpg" bytes read 24864 written 0
+Apr 21 12:01:39 10.71.56.0 u111365691 [10.71.56.0|get|1|24864|0|0|0|2f696d616765732f6e6577732f696d672d30392e6a7067|]
+Apr 21 12:01:39 10.71.57.0 u111365691 open "/images/news/img-08.jpg" flags READ mode 0666
+Apr 21 12:01:40 10.71.56.0 u111365691 open "/images/news/img-07.jpg" flags READ mode 0666
+Apr 21 12:01:40 10.71.57.0 u111365691 close "/images/news/img-08.jpg" bytes read 22791 written 0
+Apr 21 12:01:40 10.71.57.0 u111365691 [10.71.57.0|get|1|22791|0|0|0|2f696d616765732f6e6577732f696d672d30382e6a7067|]
+Apr 21 12:01:41 10.71.56.0 u111365691 close "/images/news/img-07.jpg" bytes read 21389 written 0
+Apr 21 12:01:41 10.71.56.0 u111365691 [10.71.56.0|get|1|21389|0|0|0|2f696d616765732f6e6577732f696d672d30372e6a7067|]
+Apr 21 12:01:41 10.71.57.0 u111365691 open "/images/news/img-05.jpg" flags READ mode 0666
+Apr 21 12:01:41 10.71.56.0 u111365691 open "/images/news/img-06.jpg" flags READ mode 0666
+Apr 21 12:01:42 10.71.57.0 u111365691 close "/images/news/img-05.jpg" bytes read 30681 written 0
+Apr 21 12:01:42 10.71.57.0 u111365691 [10.71.57.0|get|1|30681|0|0|0|2f696d616765732f6e6577732f696d672d30352e6a7067|]
+Apr 21 12:01:42 10.71.56.0 u111365691 close "/images/news/img-06.jpg" bytes read 26393 written 0
+Apr 21 12:01:42 10.71.56.0 u111365691 [10.71.56.0|get|1|26393|0|0|0|2f696d616765732f6e6577732f696d672d30362e6a7067|]
+Apr 21 12:01:43 10.71.57.0 u111365691 open "/images/news/img-04.jpg" flags READ mode 0666
+Apr 21 12:01:43 10.71.56.0 u111365691 open "/images/news/img-03.jpg" flags READ mode 0666
+Apr 21 12:01:43 10.71.57.0 u111365691 close "/images/news/img-04.jpg" bytes read 17482 written 0
+Apr 21 12:01:43 10.71.57.0 u111365691 [10.71.57.0|get|0|17482|0|0|0|2f696d616765732f6e6577732f696d672d30342e6a7067|]
+Apr 21 12:01:44 10.71.56.0 u111365691 close "/images/news/img-03.jpg" bytes read 18898 written 0
+Apr 21 12:01:44 10.71.56.0 u111365691 [10.71.56.0|get|1|18898|0|0|0|2f696d616765732f6e6577732f696d672d30332e6a7067|]
+Apr 21 12:01:44 10.71.57.0 u111365691 open "/images/news/img-02.jpg" flags READ mode 0666
+Apr 21 12:01:45 10.71.56.0 u111365691 open "/images/news/img-01.jpg" flags READ mode 0666
+Apr 21 12:01:45 10.71.57.0 u111365691 close "/images/news/img-02.jpg" bytes read 18600 written 0
+Apr 21 12:01:45 10.71.57.0 u111365691 [10.71.57.0|get|1|18600|0|0|0|2f696d616765732f6e6577732f696d672d30322e6a7067|]
+Apr 21 12:01:46 10.71.56.0 u111365691 close "/images/news/img-01.jpg" bytes read 21805 written 0
+Apr 21 12:01:46 10.71.56.0 u111365691 [10.71.56.0|get|1|21805|0|0|0|2f696d616765732f6e6577732f696d672d30312e6a7067|]
+Apr 21 12:01:47 10.71.57.0 u111365691 open "/images/parallax/bgparallax-01.jpg" flags READ mode 0666
+Apr 21 12:01:48 10.71.56.0 u111365691 open "/images/parallax/bgparallax-02.jpg" flags READ mode 0666
+Apr 21 12:01:49 10.71.57.0 u111365691 close "/images/parallax/bgparallax-01.jpg" bytes read 1610349 written 0
+Apr 21 12:01:49 10.71.57.0 u111365691 [10.71.57.0|get|2|1610349|0|0|0|2f696d616765732f706172616c6c61782f6267706172616c6c61782d30312e6a7067|]
+Apr 21 12:01:50 10.71.56.0 u111365691 close "/images/parallax/bgparallax-02.jpg" bytes read 1348474 written 0
+Apr 21 12:01:50 10.71.56.0 u111365691 [10.71.56.0|get|2|1348474|0|0|0|2f696d616765732f706172616c6c61782f6267706172616c6c61782d30322e6a7067|]
+Apr 21 12:01:51 10.71.57.0 u111365691 open "/images/projects/img-20.jpg" flags READ mode 0666
+Apr 21 12:01:52 10.71.56.0 u111365691 open "/images/projects/img-19.jpg" flags READ mode 0666
+Apr 21 12:01:52 10.71.57.0 u111365691 close "/images/projects/img-20.jpg" bytes read 21529 written 0
+Apr 21 12:01:52 10.71.57.0 u111365691 [10.71.57.0|get|1|21529|0|0|0|2f696d616765732f70726f6a656374732f696d672d32302e6a7067|]
+Apr 21 12:01:52 10.71.56.0 u111365691 close "/images/projects/img-19.jpg" bytes read 15110 written 0
+Apr 21 12:01:52 10.71.56.0 u111365691 [10.71.56.0|get|0|15110|0|0|0|2f696d616765732f70726f6a656374732f696d672d31392e6a7067|]
+Apr 21 12:01:53 10.71.57.0 u111365691 open "/images/projects/img-18.jpg" flags READ mode 0666
+Apr 21 12:01:53 10.71.56.0 u111365691 open "/images/projects/img-17.jpg" flags READ mode 0666
+Apr 21 12:01:54 10.71.57.0 u111365691 close "/images/projects/img-18.jpg" bytes read 17065 written 0
+Apr 21 12:01:54 10.71.57.0 u111365691 [10.71.57.0|get|1|17065|0|0|0|2f696d616765732f70726f6a656374732f696d672d31382e6a7067|]
+Apr 21 12:01:54 10.71.56.0 u111365691 close "/images/projects/img-17.jpg" bytes read 10862 written 0
+Apr 21 12:01:54 10.71.56.0 u111365691 [10.71.56.0|get|1|10862|0|0|0|2f696d616765732f70726f6a656374732f696d672d31372e6a7067|]
+Apr 21 12:01:55 10.71.57.0 u111365691 open "/images/projects/img-16.jpg" flags READ mode 0666
+Apr 21 12:01:55 10.71.56.0 u111365691 open "/images/projects/img-15.jpg" flags READ mode 0666
+Apr 21 12:01:55 10.71.57.0 u111365691 close "/images/projects/img-16.jpg" bytes read 8769 written 0
+Apr 21 12:01:55 10.71.57.0 u111365691 [10.71.57.0|get|0|8769|0|0|0|2f696d616765732f70726f6a656374732f696d672d31362e6a7067|]
+Apr 21 12:01:56 10.71.56.0 u111365691 close "/images/projects/img-15.jpg" bytes read 16570 written 0
+Apr 21 12:01:56 10.71.56.0 u111365691 [10.71.56.0|get|1|16570|0|0|0|2f696d616765732f70726f6a656374732f696d672d31352e6a7067|]
+Apr 21 12:01:56 10.71.57.0 u111365691 open "/images/projects/img-14.jpg" flags READ mode 0666
+Apr 21 12:01:57 10.71.56.0 u111365691 open "/images/projects/img-13.jpg" flags READ mode 0666
+Apr 21 12:01:57 10.71.57.0 u111365691 close "/images/projects/img-14.jpg" bytes read 15213 written 0
+Apr 21 12:01:57 10.71.57.0 u111365691 [10.71.57.0|get|1|15213|0|0|0|2f696d616765732f70726f6a656374732f696d672d31342e6a7067|]
+Apr 21 12:01:57 10.71.56.0 u111365691 close "/images/projects/img-13.jpg" bytes read 17881 written 0
+Apr 21 12:01:57 10.71.56.0 u111365691 [10.71.56.0|get|0|17881|0|0|0|2f696d616765732f70726f6a656374732f696d672d31332e6a7067|]
+Apr 21 12:01:58 10.71.57.0 u111365691 open "/images/projects/img-12.jpg" flags READ mode 0666
+Apr 21 12:01:58 10.71.56.0 u111365691 open "/images/projects/img-11.jpg" flags READ mode 0666
+Apr 21 12:01:59 10.71.57.0 u111365691 close "/images/projects/img-12.jpg" bytes read 14819 written 0
+Apr 21 12:01:59 10.71.57.0 u111365691 [10.71.57.0|get|1|14819|0|0|0|2f696d616765732f70726f6a656374732f696d672d31322e6a7067|]
+Apr 21 12:01:59 10.71.56.0 u111365691 close "/images/projects/img-11.jpg" bytes read 22961 written 0
+Apr 21 12:01:59 10.71.56.0 u111365691 [10.71.56.0|get|1|22961|0|0|0|2f696d616765732f70726f6a656374732f696d672d31312e6a7067|]
+Apr 21 12:02:00 10.71.57.0 u111365691 open "/images/projects/img-10.jpg" flags READ mode 0666
+Apr 21 12:02:00 10.71.56.0 u111365691 open "/images/projects/img-09.jpg" flags READ mode 0666
+Apr 21 12:02:00 10.71.57.0 u111365691 close "/images/projects/img-10.jpg" bytes read 22352 written 0
+Apr 21 12:02:00 10.71.57.0 u111365691 [10.71.57.0|get|0|22352|0|0|0|2f696d616765732f70726f6a656374732f696d672d31302e6a7067|]
+Apr 21 12:02:01 10.71.56.0 u111365691 close "/images/projects/img-09.jpg" bytes read 14941 written 0
+Apr 21 12:02:01 10.71.56.0 u111365691 [10.71.56.0|get|1|14941|0|0|0|2f696d616765732f70726f6a656374732f696d672d30392e6a7067|]
+Apr 21 12:02:01 10.71.57.0 u111365691 open "/images/projects/img-08.jpg" flags READ mode 0666
+Apr 21 12:02:01 10.71.56.0 u111365691 open "/images/projects/img-07.jpg" flags READ mode 0666
+Apr 21 12:02:02 10.71.57.0 u111365691 close "/images/projects/img-08.jpg" bytes read 17288 written 0
+Apr 21 12:02:02 10.71.57.0 u111365691 [10.71.57.0|get|1|17288|0|0|0|2f696d616765732f70726f6a656374732f696d672d30382e6a7067|]
+Apr 21 12:02:02 10.71.56.0 u111365691 close "/images/projects/img-07.jpg" bytes read 12676 written 0
+Apr 21 12:02:02 10.71.56.0 u111365691 [10.71.56.0|get|1|12676|0|0|0|2f696d616765732f70726f6a656374732f696d672d30372e6a7067|]
+Apr 21 12:02:03 10.71.57.0 u111365691 open "/images/projects/img-06.jpg" flags READ mode 0666
+Apr 21 12:02:03 10.71.56.0 u111365691 open "/images/projects/img-05.jpg" flags READ mode 0666
+Apr 21 12:02:04 10.71.56.0 u111365691 close "/images/projects/img-05.jpg" bytes read 13242 written 0
+Apr 21 12:02:04 10.71.56.0 u111365691 [10.71.56.0|get|1|13242|0|0|0|2f696d616765732f70726f6a656374732f696d672d30352e6a7067|]
+Apr 21 12:02:04 10.71.57.0 u111365691 close "/images/projects/img-06.jpg" bytes read 15209 written 0
+Apr 21 12:02:04 10.71.57.0 u111365691 [10.71.57.0|get|1|15209|0|0|0|2f696d616765732f70726f6a656374732f696d672d30362e6a7067|]
+Apr 21 12:02:05 10.71.57.0 u111365691 open "/images/projects/img-04.jpg" flags READ mode 0666
+Apr 21 12:02:05 10.71.56.0 u111365691 open "/images/projects/img-03.jpg" flags READ mode 0666
+Apr 21 12:02:05 10.71.56.0 u111365691 close "/images/projects/img-03.jpg" bytes read 11853 written 0
+Apr 21 12:02:05 10.71.56.0 u111365691 [10.71.56.0|get|0|11853|0|0|0|2f696d616765732f70726f6a656374732f696d672d30332e6a7067|]
+Apr 21 12:02:05 10.71.57.0 u111365691 close "/images/projects/img-04.jpg" bytes read 19965 written 0
+Apr 21 12:02:05 10.71.57.0 u111365691 [10.71.57.0|get|0|19965|0|0|0|2f696d616765732f70726f6a656374732f696d672d30342e6a7067|]
+Apr 21 12:02:06 10.71.56.0 u111365691 open "/images/projects/img-02.jpg" flags READ mode 0666
+Apr 21 12:02:06 10.71.57.0 u111365691 open "/images/projects/img-01.jpg" flags READ mode 0666
+Apr 21 12:02:07 10.71.56.0 u111365691 close "/images/projects/img-02.jpg" bytes read 11954 written 0
+Apr 21 12:02:07 10.71.56.0 u111365691 [10.71.56.0|get|1|11954|0|0|0|2f696d616765732f70726f6a656374732f696d672d30322e6a7067|]
+Apr 21 12:02:07 10.71.57.0 u111365691 close "/images/projects/img-01.jpg" bytes read 13323 written 0
+Apr 21 12:02:07 10.71.57.0 u111365691 [10.71.57.0|get|1|13323|0|0|0|2f696d616765732f70726f6a656374732f696d672d30312e6a7067|]
+Apr 21 12:02:09 10.71.56.0 u111365691 open "/images/projects/project-detail/img-03.jpg" flags READ mode 0666
+Apr 21 12:02:09 10.71.57.0 u111365691 open "/images/projects/project-detail/img-01.jpg" flags READ mode 0666
+Apr 21 12:02:10 10.71.56.0 u111365691 close "/images/projects/project-detail/img-03.jpg" bytes read 16665 written 0
+Apr 21 12:02:10 10.71.56.0 u111365691 [10.71.56.0|get|1|16665|0|0|0|2f696d616765732f70726f6a656374732f70726f6a6563742d64657461696c2f696d672d30332e6a7067|]
+Apr 21 12:02:10 10.71.57.0 u111365691 close "/images/projects/project-detail/img-01.jpg" bytes read 15428 written 0
+Apr 21 12:02:10 10.71.57.0 u111365691 [10.71.57.0|get|1|15428|0|0|0|2f696d616765732f70726f6a656374732f70726f6a6563742d64657461696c2f696d672d30312e6a7067|]
+Apr 21 12:02:10 10.71.56.0 u111365691 open "/images/projects/project-detail/img-02.jpg" flags READ mode 0666
+Apr 21 12:02:12 10.71.56.0 u111365691 close "/images/projects/project-detail/img-02.jpg" bytes read 43959 written 0
+Apr 21 12:02:12 10.71.56.0 u111365691 [10.71.56.0|get|2|43959|0|0|0|2f696d616765732f70726f6a656374732f70726f6a6563742d64657461696c2f696d672d30322e6a7067|]
+Apr 21 12:02:12 10.71.57.0 u111365691 open "/images/slider/img-03.jpg" flags READ mode 0666
+Apr 21 12:02:12 10.71.57.0 u111365691 close "/images/slider/img-03.jpg" bytes read 138281 written 0
+Apr 21 12:02:12 10.71.57.0 u111365691 [10.71.57.0|get|0|138281|0|0|0|2f696d616765732f736c696465722f696d672d30332e6a7067|]
+Apr 21 12:02:13 10.71.56.0 u111365691 open "/images/slider/img-02.jpg" flags READ mode 0666
+Apr 21 12:02:13 10.71.57.0 u111365691 open "/images/slider/img-01.jpg" flags READ mode 0666
+Apr 21 12:02:14 10.71.56.0 u111365691 close "/images/slider/img-02.jpg" bytes read 99726 written 0
+Apr 21 12:02:14 10.71.56.0 u111365691 [10.71.56.0|get|1|99726|0|0|0|2f696d616765732f736c696465722f696d672d30322e6a7067|]
+Apr 21 12:02:14 10.71.57.0 u111365691 close "/images/slider/img-01.jpg" bytes read 156582 written 0
+Apr 21 12:02:14 10.71.57.0 u111365691 [10.71.57.0|get|1|156582|0|0|0|2f696d616765732f736c696465722f696d672d30312e6a7067|]
+Apr 21 12:02:15 10.71.56.0 u111365691 open "/images/team/Untitled-design-14.png" flags READ mode 0666
+Apr 21 12:02:16 10.71.57.0 u111365691 open "/images/team/Untitled-design-7.png" flags READ mode 0666
+Apr 21 12:02:16 10.71.56.0 u111365691 close "/images/team/Untitled-design-14.png" bytes read 408155 written 0
+Apr 21 12:02:16 10.71.56.0 u111365691 [10.71.56.0|get|1|408155|0|0|0|2f696d616765732f7465616d2f556e7469746c65642d64657369676e2d31342e706e67|]
+Apr 21 12:02:17 10.71.57.0 u111365691 close "/images/team/Untitled-design-7.png" bytes read 160268 written 0
+Apr 21 12:02:17 10.71.57.0 u111365691 [10.71.57.0|get|1|160268|0|0|0|2f696d616765732f7465616d2f556e7469746c65642d64657369676e2d372e706e67|]
+Apr 21 12:02:17 10.71.56.0 u111365691 open "/images/team/Untitled-design-8.png" flags READ mode 0666
+Apr 21 12:02:17 10.71.57.0 u111365691 open "/images/team/amir.jpg" flags READ mode 0666
+Apr 21 12:02:18 10.71.56.0 u111365691 close "/images/team/Untitled-design-8.png" bytes read 252918 written 0
+Apr 21 12:02:18 10.71.56.0 u111365691 [10.71.56.0|get|1|252918|0|0|0|2f696d616765732f7465616d2f556e7469746c65642d64657369676e2d382e706e67|]
+Apr 21 12:02:18 10.71.57.0 u111365691 close "/images/team/amir.jpg" bytes read 99361 written 0
+Apr 21 12:02:18 10.71.57.0 u111365691 [10.71.57.0|get|1|99361|0|0|0|2f696d616765732f7465616d2f616d69722e6a7067|]
+Apr 21 12:02:19 10.71.56.0 u111365691 open "/images/team/asim-768x768.jpg" flags READ mode 0666
+Apr 21 12:02:19 10.71.57.0 u111365691 open "/images/team/Untitled-design-12.png" flags READ mode 0666
+Apr 21 12:02:20 10.71.56.0 u111365691 close "/images/team/asim-768x768.jpg" bytes read 79964 written 0
+Apr 21 12:02:20 10.71.56.0 u111365691 [10.71.56.0|get|1|79964|0|0|0|2f696d616765732f7465616d2f6173696d2d373638783736382e6a7067|]
+Apr 21 12:02:20 10.71.57.0 u111365691 close "/images/team/Untitled-design-12.png" bytes read 288237 written 0
+Apr 21 12:02:20 10.71.57.0 u111365691 [10.71.57.0|get|1|288237|0|0|0|2f696d616765732f7465616d2f556e7469746c65642d64657369676e2d31322e706e67|]
+Apr 21 12:02:21 10.71.56.0 u111365691 open "/images/team/Untitled-design-28.png" flags READ mode 0666
+Apr 21 12:02:21 10.71.57.0 u111365691 open "/images/team/Omer-1.png" flags READ mode 0666
+Apr 21 12:02:22 10.71.56.0 u111365691 close "/images/team/Untitled-design-28.png" bytes read 283058 written 0
+Apr 21 12:02:22 10.71.56.0 u111365691 [10.71.56.0|get|1|283058|0|0|0|2f696d616765732f7465616d2f556e7469746c65642d64657369676e2d32382e706e67|]
+Apr 21 12:02:22 10.71.57.0 u111365691 close "/images/team/Omer-1.png" bytes read 377999 written 0
+Apr 21 12:02:22 10.71.57.0 u111365691 [10.71.57.0|get|1|377999|0|0|0|2f696d616765732f7465616d2f4f6d65722d312e706e67|]
+Apr 21 12:02:22 10.71.56.0 u111365691 open "/images/team/16.png" flags READ mode 0666
+Apr 21 12:02:23 10.71.57.0 u111365691 open "/images/team/1.png" flags READ mode 0666
+Apr 21 12:02:23 10.71.56.0 u111365691 close "/images/team/16.png" bytes read 196836 written 0
+Apr 21 12:02:23 10.71.56.0 u111365691 [10.71.56.0|get|1|196836|0|0|0|2f696d616765732f7465616d2f31362e706e67|]
+Apr 21 12:02:24 10.71.57.0 u111365691 close "/images/team/1.png" bytes read 240415 written 0
+Apr 21 12:02:24 10.71.57.0 u111365691 [10.71.57.0|get|0|240415|0|0|0|2f696d616765732f7465616d2f312e706e67|]
+Apr 21 12:02:24 10.71.56.0 u111365691 open "/images/team/c12.png" flags READ mode 0666
+Apr 21 12:02:24 10.71.57.0 u111365691 open "/images/team/c11.png" flags READ mode 0666
+Apr 21 12:02:25 10.71.56.0 u111365691 close "/images/team/c12.png" bytes read 64472 written 0
+Apr 21 12:02:25 10.71.56.0 u111365691 [10.71.56.0|get|1|64472|0|0|0|2f696d616765732f7465616d2f6331322e706e67|]
+Apr 21 12:02:25 10.71.57.0 u111365691 close "/images/team/c11.png" bytes read 320623 written 0
+Apr 21 12:02:25 10.71.57.0 u111365691 [10.71.57.0|get|1|320623|0|0|0|2f696d616765732f7465616d2f6331312e706e67|]
+Apr 21 12:02:25 10.71.56.0 u111365691 open "/images/team/c10.png" flags READ mode 0666
+Apr 21 12:02:26 10.71.57.0 u111365691 open "/images/team/c9.png" flags READ mode 0666
+Apr 21 12:02:26 10.71.56.0 u111365691 close "/images/team/c10.png" bytes read 129356 written 0
+Apr 21 12:02:26 10.71.56.0 u111365691 [10.71.56.0|get|1|129356|0|0|0|2f696d616765732f7465616d2f6331302e706e67|]
+Apr 21 12:02:27 10.71.57.0 u111365691 close "/images/team/c9.png" bytes read 408155 written 0
+Apr 21 12:02:27 10.71.57.0 u111365691 [10.71.57.0|get|1|408155|0|0|0|2f696d616765732f7465616d2f63392e706e67|]
+Apr 21 12:02:27 10.71.56.0 u111365691 open "/images/team/c8.png" flags READ mode 0666
+Apr 21 12:02:28 10.71.56.0 u111365691 close "/images/team/c8.png" bytes read 160268 written 0
+Apr 21 12:02:28 10.71.56.0 u111365691 [10.71.56.0|get|1|160268|0|0|0|2f696d616765732f7465616d2f63382e706e67|]
+Apr 21 12:02:28 10.71.57.0 u111365691 open "/images/team/c7.png" flags READ mode 0666
+Apr 21 12:02:29 10.71.56.0 u111365691 open "/images/team/c6.png" flags READ mode 0666
+Apr 21 12:02:29 10.71.57.0 u111365691 close "/images/team/c7.png" bytes read 377999 written 0
+Apr 21 12:02:29 10.71.57.0 u111365691 [10.71.57.0|get|1|377999|0|0|0|2f696d616765732f7465616d2f63372e706e67|]
+Apr 21 12:02:30 10.71.56.0 u111365691 close "/images/team/c6.png" bytes read 159888 written 0
+Apr 21 12:02:30 10.71.56.0 u111365691 [10.71.56.0|get|1|159888|0|0|0|2f696d616765732f7465616d2f63362e706e67|]
+Apr 21 12:02:30 10.71.57.0 u111365691 open "/images/team/c5.png" flags READ mode 0666
+Apr 21 12:02:30 10.71.56.0 u111365691 open "/images/team/c4.png" flags READ mode 0666
+Apr 21 12:02:31 10.71.57.0 u111365691 close "/images/team/c5.png" bytes read 196836 written 0
+Apr 21 12:02:31 10.71.57.0 u111365691 [10.71.57.0|get|1|196836|0|0|0|2f696d616765732f7465616d2f63352e706e67|]
+Apr 21 12:02:31 10.71.56.0 u111365691 close "/images/team/c4.png" bytes read 360402 written 0
+Apr 21 12:02:31 10.71.56.0 u111365691 [10.71.56.0|get|1|360402|0|0|0|2f696d616765732f7465616d2f63342e706e67|]
+Apr 21 12:02:31 10.71.57.0 u111365691 open "/images/team/c3.png" flags READ mode 0666
+Apr 21 12:02:32 10.71.56.0 u111365691 open "/images/team/c1.jpg" flags READ mode 0666
+Apr 21 12:02:32 10.71.57.0 u111365691 close "/images/team/c3.png" bytes read 237630 written 0
+Apr 21 12:02:32 10.71.57.0 u111365691 [10.71.57.0|get|1|237630|0|0|0|2f696d616765732f7465616d2f63332e706e67|]
+Apr 21 12:02:33 10.71.56.0 u111365691 close "/images/team/c1.jpg" bytes read 218001 written 0
+Apr 21 12:02:33 10.71.56.0 u111365691 [10.71.56.0|get|1|218001|0|0|0|2f696d616765732f7465616d2f63312e6a7067|]
+Apr 21 12:02:33 10.71.57.0 u111365691 open "/images/team/c2.png" flags READ mode 0666
+Apr 21 12:02:34 10.71.56.0 u111365691 open "/images/team/img-14.jpg" flags READ mode 0666
+Apr 21 12:02:34 10.71.57.0 u111365691 close "/images/team/c2.png" bytes read 228349 written 0
+Apr 21 12:02:34 10.71.57.0 u111365691 [10.71.57.0|get|1|228349|0|0|0|2f696d616765732f7465616d2f63322e706e67|]
+Apr 21 12:02:35 10.71.56.0 u111365691 close "/images/team/img-14.jpg" bytes read 25514 written 0
+Apr 21 12:02:35 10.71.56.0 u111365691 [10.71.56.0|get|1|25514|0|0|0|2f696d616765732f7465616d2f696d672d31342e6a7067|]
+Apr 21 12:02:35 10.71.57.0 u111365691 open "/images/team/img-13.jpg" flags READ mode 0666
+Apr 21 12:02:36 10.71.56.0 u111365691 open "/images/team/img-12.jpg" flags READ mode 0666
+Apr 21 12:02:36 10.71.57.0 u111365691 close "/images/team/img-13.jpg" bytes read 17564 written 0
+Apr 21 12:02:36 10.71.57.0 u111365691 [10.71.57.0|get|1|17564|0|0|0|2f696d616765732f7465616d2f696d672d31332e6a7067|]
+Apr 21 12:02:37 10.71.56.0 u111365691 close "/images/team/img-12.jpg" bytes read 15517 written 0
+Apr 21 12:02:37 10.71.56.0 u111365691 [10.71.56.0|get|1|15517|0|0|0|2f696d616765732f7465616d2f696d672d31322e6a7067|]
+Apr 21 12:02:37 10.71.57.0 u111365691 open "/images/team/img-11.jpg" flags READ mode 0666
+Apr 21 12:02:38 10.71.56.0 u111365691 open "/images/team/img-10.jpg" flags READ mode 0666
+Apr 21 12:02:38 10.71.57.0 u111365691 close "/images/team/img-11.jpg" bytes read 18273 written 0
+Apr 21 12:02:38 10.71.57.0 u111365691 [10.71.57.0|get|1|18273|0|0|0|2f696d616765732f7465616d2f696d672d31312e6a7067|]
+Apr 21 12:02:39 10.71.57.0 u111365691 open "/images/team/img-09.jpg" flags READ mode 0666
+Apr 21 12:02:39 10.71.56.0 u111365691 close "/images/team/img-10.jpg" bytes read 16150 written 0
+Apr 21 12:02:39 10.71.56.0 u111365691 [10.71.56.0|get|1|16150|0|0|0|2f696d616765732f7465616d2f696d672d31302e6a7067|]
+Apr 21 12:02:40 10.71.57.0 u111365691 close "/images/team/img-09.jpg" bytes read 13366 written 0
+Apr 21 12:02:40 10.71.57.0 u111365691 [10.71.57.0|get|1|13366|0|0|0|2f696d616765732f7465616d2f696d672d30392e6a7067|]
+Apr 21 12:02:40 10.71.56.0 u111365691 open "/images/team/img-08.jpg" flags READ mode 0666
+Apr 21 12:02:40 10.71.57.0 u111365691 open "/images/team/img-07.jpg" flags READ mode 0666
+Apr 21 12:02:41 10.71.56.0 u111365691 close "/images/team/img-08.jpg" bytes read 14956 written 0
+Apr 21 12:02:41 10.71.56.0 u111365691 [10.71.56.0|get|1|14956|0|0|0|2f696d616765732f7465616d2f696d672d30382e6a7067|]
+Apr 21 12:02:41 10.71.57.0 u111365691 close "/images/team/img-07.jpg" bytes read 12894 written 0
+Apr 21 12:02:41 10.71.57.0 u111365691 [10.71.57.0|get|1|12894|0|0|0|2f696d616765732f7465616d2f696d672d30372e6a7067|]
+Apr 21 12:02:41 10.71.56.0 u111365691 open "/images/team/img-06.jpg" flags READ mode 0666
+Apr 21 12:02:42 10.71.57.0 u111365691 open "/images/team/img-04.jpg" flags READ mode 0666
+Apr 21 12:02:42 10.71.56.0 u111365691 close "/images/team/img-06.jpg" bytes read 22915 written 0
+Apr 21 12:02:42 10.71.56.0 u111365691 [10.71.56.0|get|1|22915|0|0|0|2f696d616765732f7465616d2f696d672d30362e6a7067|]
+Apr 21 12:02:43 10.71.56.0 u111365691 open "/images/team/img-03.jpg" flags READ mode 0666
+Apr 21 12:02:43 10.71.57.0 u111365691 close "/images/team/img-04.jpg" bytes read 21937 written 0
+Apr 21 12:02:43 10.71.57.0 u111365691 [10.71.57.0|get|1|21937|0|0|0|2f696d616765732f7465616d2f696d672d30342e6a7067|]
+Apr 21 12:02:44 10.71.56.0 u111365691 close "/images/team/img-03.jpg" bytes read 15964 written 0
+Apr 21 12:02:44 10.71.56.0 u111365691 [10.71.56.0|get|1|15964|0|0|0|2f696d616765732f7465616d2f696d672d30332e6a7067|]
+Apr 21 12:02:44 10.71.57.0 u111365691 open "/images/team/img-01.jpg" flags READ mode 0666
+Apr 21 12:02:44 10.71.56.0 u111365691 open "/images/team/img-02.jpg" flags READ mode 0666
+Apr 21 12:02:45 10.71.57.0 u111365691 close "/images/team/img-01.jpg" bytes read 15652 written 0
+Apr 21 12:02:45 10.71.57.0 u111365691 [10.71.57.0|get|1|15652|0|0|0|2f696d616765732f7465616d2f696d672d30312e6a7067|]
+Apr 21 12:02:45 10.71.56.0 u111365691 close "/images/team/img-02.jpg" bytes read 23359 written 0
+Apr 21 12:02:45 10.71.56.0 u111365691 [10.71.56.0|get|1|23359|0|0|0|2f696d616765732f7465616d2f696d672d30322e6a7067|]
+Apr 21 12:02:46 10.71.57.0 u111365691 open "/images/thumbs/img-08.jpg" flags READ mode 0666
+Apr 21 12:02:47 10.71.56.0 u111365691 open "/images/thumbs/img-07.jpg" flags READ mode 0666
+Apr 21 12:02:48 10.71.57.0 u111365691 close "/images/thumbs/img-08.jpg" bytes read 3207 written 0
+Apr 21 12:02:48 10.71.57.0 u111365691 [10.71.57.0|get|2|3207|0|0|0|2f696d616765732f7468756d62732f696d672d30382e6a7067|]
+Apr 21 12:02:49 10.71.56.0 u111365691 close "/images/thumbs/img-07.jpg" bytes read 4143 written 0
+Apr 21 12:02:49 10.71.56.0 u111365691 [10.71.56.0|get|2|4143|0|0|0|2f696d616765732f7468756d62732f696d672d30372e6a7067|]
+Apr 21 12:02:49 10.71.57.0 u111365691 open "/images/thumbs/img-06.jpg" flags READ mode 0666
+Apr 21 12:02:50 10.71.56.0 u111365691 open "/images/thumbs/img-05.jpg" flags READ mode 0666
+Apr 21 12:02:50 10.71.57.0 u111365691 close "/images/thumbs/img-06.jpg" bytes read 2920 written 0
+Apr 21 12:02:50 10.71.57.0 u111365691 [10.71.57.0|get|1|2920|0|0|0|2f696d616765732f7468756d62732f696d672d30362e6a7067|]
+Apr 21 12:02:51 10.71.56.0 u111365691 close "/images/thumbs/img-05.jpg" bytes read 3859 written 0
+Apr 21 12:02:51 10.71.56.0 u111365691 [10.71.56.0|get|1|3859|0|0|0|2f696d616765732f7468756d62732f696d672d30352e6a7067|]
+Apr 21 12:02:51 10.71.57.0 u111365691 open "/images/thumbs/img-04.jpg" flags READ mode 0666
+Apr 21 12:02:52 10.71.56.0 u111365691 open "/images/thumbs/img-03.jpg" flags READ mode 0666
+Apr 21 12:02:52 10.71.57.0 u111365691 close "/images/thumbs/img-04.jpg" bytes read 4120 written 0
+Apr 21 12:02:52 10.71.57.0 u111365691 [10.71.57.0|get|1|4120|0|0|0|2f696d616765732f7468756d62732f696d672d30342e6a7067|]
+Apr 21 12:02:53 10.71.57.0 u111365691 open "/images/thumbs/img-02.jpg" flags READ mode 0666
+Apr 21 12:02:53 10.71.56.0 u111365691 close "/images/thumbs/img-03.jpg" bytes read 6184 written 0
+Apr 21 12:02:53 10.71.56.0 u111365691 [10.71.56.0|get|1|6184|0|0|0|2f696d616765732f7468756d62732f696d672d30332e6a7067|]
+Apr 21 12:02:54 10.71.56.0 u111365691 open "/images/thumbs/img-01.jpg" flags READ mode 0666
+Apr 21 12:02:54 10.71.57.0 u111365691 close "/images/thumbs/img-02.jpg" bytes read 2508 written 0
+Apr 21 12:02:54 10.71.57.0 u111365691 [10.71.57.0|get|1|2508|0|0|0|2f696d616765732f7468756d62732f696d672d30322e6a7067|]
+Apr 21 12:02:55 10.71.56.0 u111365691 close "/images/thumbs/img-01.jpg" bytes read 2683 written 0
+Apr 21 12:02:55 10.71.56.0 u111365691 [10.71.56.0|get|1|2683|0|0|0|2f696d616765732f7468756d62732f696d672d30312e6a7067|]
+Apr 21 12:02:55 10.71.57.0 u111365691 open "/images/whatwedo/About-Us-page.png" flags READ mode 0666
+Apr 21 12:02:56 10.71.56.0 u111365691 open "/images/whatwedo/t.png" flags READ mode 0666
+Apr 21 12:02:57 10.71.57.0 u111365691 close "/images/whatwedo/About-Us-page.png" bytes read 480312 written 0
+Apr 21 12:02:57 10.71.57.0 u111365691 [10.71.57.0|get|2|480312|0|0|0|2f696d616765732f776861747765646f2f41626f75742d55732d706167652e706e67|]
+Apr 21 12:02:57 10.71.56.0 u111365691 close "/images/whatwedo/t.png" bytes read 288161 written 0
+Apr 21 12:02:57 10.71.56.0 u111365691 [10.71.56.0|get|1|288161|0|0|0|2f696d616765732f776861747765646f2f742e706e67|]
+Apr 21 12:02:57 10.71.57.0 u111365691 open "/images/whatwedo/Us.png" flags READ mode 0666
+Apr 21 12:02:58 10.71.56.0 u111365691 open "/images/whatwedo/Republic.png" flags READ mode 0666
+Apr 21 12:02:59 10.71.57.0 u111365691 close "/images/whatwedo/Us.png" bytes read 607234 written 0
+Apr 21 12:02:59 10.71.57.0 u111365691 [10.71.57.0|get|2|607234|0|0|0|2f696d616765732f776861747765646f2f55732e706e67|]
+Apr 21 12:02:59 10.71.56.0 u111365691 close "/images/whatwedo/Republic.png" bytes read 434652 written 0
+Apr 21 12:02:59 10.71.56.0 u111365691 [10.71.56.0|get|1|434652|0|0|0|2f696d616765732f776861747765646f2f52657075626c69632e706e67|]
+Apr 21 12:02:59 10.71.57.0 u111365691 open "/images/whatwedo/img-03.jpg" flags READ mode 0666
+Apr 21 12:02:59 10.71.56.0 u111365691 open "/images/whatwedo/img-02.jpg" flags READ mode 0666
+Apr 21 12:03:00 10.71.57.0 u111365691 close "/images/whatwedo/img-03.jpg" bytes read 30259 written 0
+Apr 21 12:03:00 10.71.57.0 u111365691 [10.71.57.0|get|1|30259|0|0|0|2f696d616765732f776861747765646f2f696d672d30332e6a7067|]
+Apr 21 12:03:00 10.71.56.0 u111365691 close "/images/whatwedo/img-02.jpg" bytes read 29982 written 0
+Apr 21 12:03:00 10.71.56.0 u111365691 [10.71.56.0|get|1|29982|0|0|0|2f696d616765732f776861747765646f2f696d672d30322e6a7067|]
+Apr 21 12:03:01 10.71.57.0 u111365691 open "/images/whatwedo/img-01.jpg" flags READ mode 0666
+Apr 21 12:03:02 10.71.57.0 u111365691 close "/images/whatwedo/img-01.jpg" bytes read 20300 written 0
+Apr 21 12:03:02 10.71.57.0 u111365691 [10.71.57.0|get|1|20300|0|0|0|2f696d616765732f776861747765646f2f696d672d30312e6a7067|]
+Apr 21 12:03:02 10.71.56.0 u111365691 open "/images/prettyPhoto/dark_rounded/sprite.png" flags READ mode 0666
+Apr 21 12:03:03 10.71.56.0 u111365691 close "/images/prettyPhoto/dark_rounded/sprite.png" bytes read 4076 written 0
+Apr 21 12:03:03 10.71.56.0 u111365691 [10.71.56.0|get|1|4076|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f726f756e6465642f7370726974652e706e67|]
+Apr 21 12:03:03 10.71.57.0 u111365691 open "/images/prettyPhoto/dark_rounded/loader.gif" flags READ mode 0666
+Apr 21 12:03:03 10.71.56.0 u111365691 open "/images/prettyPhoto/dark_rounded/contentPattern.png" flags READ mode 0666
+Apr 21 12:03:04 10.71.57.0 u111365691 close "/images/prettyPhoto/dark_rounded/loader.gif" bytes read 2545 written 0
+Apr 21 12:03:04 10.71.57.0 u111365691 [10.71.57.0|get|1|2545|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f726f756e6465642f6c6f616465722e676966|]
+Apr 21 12:03:04 10.71.56.0 u111365691 close "/images/prettyPhoto/dark_rounded/contentPattern.png" bytes read 130 written 0
+Apr 21 12:03:04 10.71.56.0 u111365691 [10.71.56.0|get|1|130|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f726f756e6465642f636f6e74656e745061747465726e2e706e67|]
+Apr 21 12:03:05 10.71.57.0 u111365691 open "/images/prettyPhoto/dark_rounded/btnPrevious.png" flags READ mode 0666
+Apr 21 12:03:05 10.71.56.0 u111365691 open "/images/prettyPhoto/dark_rounded/btnNext.png" flags READ mode 0666
+Apr 21 12:03:06 10.71.56.0 u111365691 close "/images/prettyPhoto/dark_rounded/btnNext.png" bytes read 1411 written 0
+Apr 21 12:03:06 10.71.56.0 u111365691 [10.71.56.0|get|1|1411|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f726f756e6465642f62746e4e6578742e706e67|]
+Apr 21 12:03:06 10.71.57.0 u111365691 close "/images/prettyPhoto/dark_rounded/btnPrevious.png" bytes read 1442 written 0
+Apr 21 12:03:06 10.71.57.0 u111365691 [10.71.57.0|get|1|1442|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f726f756e6465642f62746e50726576696f75732e706e67|]
+Apr 21 12:03:07 10.71.56.0 u111365691 open "/images/prettyPhoto/dark_square/sprite.png" flags READ mode 0666
+Apr 21 12:03:07 10.71.57.0 u111365691 open "/images/prettyPhoto/dark_square/loader.gif" flags READ mode 0666
+Apr 21 12:03:08 10.71.56.0 u111365691 close "/images/prettyPhoto/dark_square/sprite.png" bytes read 3507 written 0
+Apr 21 12:03:08 10.71.56.0 u111365691 [10.71.56.0|get|1|3507|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f7371756172652f7370726974652e706e67|]
+Apr 21 12:03:08 10.71.57.0 u111365691 close "/images/prettyPhoto/dark_square/loader.gif" bytes read 2545 written 0
+Apr 21 12:03:08 10.71.57.0 u111365691 [10.71.57.0|get|1|2545|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f7371756172652f6c6f616465722e676966|]
+Apr 21 12:03:09 10.71.56.0 u111365691 open "/images/prettyPhoto/dark_square/btnNext.png" flags READ mode 0666
+Apr 21 12:03:09 10.71.57.0 u111365691 open "/images/prettyPhoto/dark_square/btnPrevious.png" flags READ mode 0666
+Apr 21 12:03:10 10.71.56.0 u111365691 close "/images/prettyPhoto/dark_square/btnNext.png" bytes read 1411 written 0
+Apr 21 12:03:10 10.71.56.0 u111365691 [10.71.56.0|get|1|1411|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f7371756172652f62746e4e6578742e706e67|]
+Apr 21 12:03:10 10.71.57.0 u111365691 close "/images/prettyPhoto/dark_square/btnPrevious.png" bytes read 1442 written 0
+Apr 21 12:03:10 10.71.57.0 u111365691 [10.71.57.0|get|1|1442|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f7371756172652f62746e50726576696f75732e706e67|]
+Apr 21 12:03:11 10.71.56.0 u111365691 open "/images/prettyPhoto/default/sprite_y.png" flags READ mode 0666
+Apr 21 12:03:11 10.71.57.0 u111365691 open "/images/prettyPhoto/default/sprite_prev.png" flags READ mode 0666
+Apr 21 12:03:12 10.71.56.0 u111365691 close "/images/prettyPhoto/default/sprite_y.png" bytes read 1162 written 0
+Apr 21 12:03:12 10.71.56.0 u111365691 [10.71.56.0|get|1|1162|0|0|0|2f696d616765732f70726574747950686f746f2f64656661756c742f7370726974655f792e706e67|]
+Apr 21 12:03:12 10.71.57.0 u111365691 close "/images/prettyPhoto/default/sprite_prev.png" bytes read 1376 written 0
+Apr 21 12:03:12 10.71.57.0 u111365691 [10.71.57.0|get|1|1376|0|0|0|2f696d616765732f70726574747950686f746f2f64656661756c742f7370726974655f707265762e706e67|]
+Apr 21 12:03:13 10.71.56.0 u111365691 open "/images/prettyPhoto/default/sprite_x.png" flags READ mode 0666
+Apr 21 12:03:13 10.71.57.0 u111365691 open "/images/prettyPhoto/default/sprite_next.png" flags READ mode 0666
+Apr 21 12:03:13 10.71.56.0 u111365691 close "/images/prettyPhoto/default/sprite_x.png" bytes read 1097 written 0
+Apr 21 12:03:13 10.71.56.0 u111365691 [10.71.56.0|get|0|1097|0|0|0|2f696d616765732f70726574747950686f746f2f64656661756c742f7370726974655f782e706e67|]
+Apr 21 12:03:14 10.71.57.0 u111365691 close "/images/prettyPhoto/default/sprite_next.png" bytes read 1358 written 0
+Apr 21 12:03:14 10.71.57.0 u111365691 [10.71.57.0|get|1|1358|0|0|0|2f696d616765732f70726574747950686f746f2f64656661756c742f7370726974655f6e6578742e706e67|]
+Apr 21 12:03:14 10.71.56.0 u111365691 open "/images/prettyPhoto/default/sprite.png" flags READ mode 0666
+Apr 21 12:03:15 10.71.57.0 u111365691 open "/images/prettyPhoto/default/loader.gif" flags READ mode 0666
+Apr 21 12:03:15 10.71.56.0 u111365691 close "/images/prettyPhoto/default/sprite.png" bytes read 6682 written 0
+Apr 21 12:03:15 10.71.56.0 u111365691 [10.71.56.0|get|1|6682|0|0|0|2f696d616765732f70726574747950686f746f2f64656661756c742f7370726974652e706e67|]
+Apr 21 12:03:15 10.71.57.0 u111365691 close "/images/prettyPhoto/default/loader.gif" bytes read 6331 written 0
+Apr 21 12:03:15 10.71.57.0 u111365691 [10.71.57.0|get|0|6331|0|0|0|2f696d616765732f70726574747950686f746f2f64656661756c742f6c6f616465722e676966|]
+Apr 21 12:03:16 10.71.56.0 u111365691 open "/images/prettyPhoto/default/default_thumb.png" flags READ mode 0666
+Apr 21 12:03:16 10.71.56.0 u111365691 close "/images/prettyPhoto/default/default_thumb.png" bytes read 1537 written 0
+Apr 21 12:03:16 10.71.56.0 u111365691 [10.71.56.0|get|0|1537|0|0|0|2f696d616765732f70726574747950686f746f2f64656661756c742f64656661756c745f7468756d622e706e67|]
+Apr 21 12:03:17 10.71.57.0 u111365691 open "/images/prettyPhoto/facebook/sprite.png" flags READ mode 0666
+Apr 21 12:03:18 10.71.57.0 u111365691 close "/images/prettyPhoto/facebook/sprite.png" bytes read 4227 written 0
+Apr 21 12:03:18 10.71.57.0 u111365691 [10.71.57.0|get|1|4227|0|0|0|2f696d616765732f70726574747950686f746f2f66616365626f6f6b2f7370726974652e706e67|]
+Apr 21 12:03:18 10.71.56.0 u111365691 open "/images/prettyPhoto/facebook/default_thumbnail.gif" flags READ mode 0666
+Apr 21 12:03:19 10.71.56.0 u111365691 close "/images/prettyPhoto/facebook/default_thumbnail.gif" bytes read 227 written 0
+Apr 21 12:03:19 10.71.56.0 u111365691 [10.71.56.0|get|1|227|0|0|0|2f696d616765732f70726574747950686f746f2f66616365626f6f6b2f64656661756c745f7468756d626e61696c2e676966|]
+Apr 21 12:03:19 10.71.57.0 u111365691 open "/images/prettyPhoto/facebook/loader.gif" flags READ mode 0666
+Apr 21 12:03:19 10.71.56.0 u111365691 open "/images/prettyPhoto/facebook/contentPatternTop.png" flags READ mode 0666
+Apr 21 12:03:19 10.71.57.0 u111365691 close "/images/prettyPhoto/facebook/loader.gif" bytes read 2545 written 0
+Apr 21 12:03:19 10.71.57.0 u111365691 [10.71.57.0|get|0|2545|0|0|0|2f696d616765732f70726574747950686f746f2f66616365626f6f6b2f6c6f616465722e676966|]
+Apr 21 12:03:20 10.71.56.0 u111365691 close "/images/prettyPhoto/facebook/contentPatternTop.png" bytes read 142 written 0
+Apr 21 12:03:20 10.71.56.0 u111365691 [10.71.56.0|get|1|142|0|0|0|2f696d616765732f70726574747950686f746f2f66616365626f6f6b2f636f6e74656e745061747465726e546f702e706e67|]
+Apr 21 12:03:20 10.71.57.0 u111365691 open "/images/prettyPhoto/facebook/contentPatternRight.png" flags READ mode 0666
+Apr 21 12:03:21 10.71.56.0 u111365691 open "/images/prettyPhoto/facebook/contentPatternLeft.png" flags READ mode 0666
+Apr 21 12:03:21 10.71.57.0 u111365691 close "/images/prettyPhoto/facebook/contentPatternRight.png" bytes read 136 written 0
+Apr 21 12:03:21 10.71.57.0 u111365691 [10.71.57.0|get|1|136|0|0|0|2f696d616765732f70726574747950686f746f2f66616365626f6f6b2f636f6e74656e745061747465726e52696768742e706e67|]
+Apr 21 12:03:22 10.71.56.0 u111365691 close "/images/prettyPhoto/facebook/contentPatternLeft.png" bytes read 137 written 0
+Apr 21 12:03:22 10.71.56.0 u111365691 [10.71.56.0|get|1|137|0|0|0|2f696d616765732f70726574747950686f746f2f66616365626f6f6b2f636f6e74656e745061747465726e4c6566742e706e67|]
+Apr 21 12:03:22 10.71.57.0 u111365691 open "/images/prettyPhoto/facebook/contentPatternBottom.png" flags READ mode 0666
+Apr 21 12:03:23 10.71.56.0 u111365691 open "/images/prettyPhoto/facebook/btnNext.png" flags READ mode 0666
+Apr 21 12:03:23 10.71.57.0 u111365691 close "/images/prettyPhoto/facebook/contentPatternBottom.png" bytes read 142 written 0
+Apr 21 12:03:23 10.71.57.0 u111365691 [10.71.57.0|get|1|142|0|0|0|2f696d616765732f70726574747950686f746f2f66616365626f6f6b2f636f6e74656e745061747465726e426f74746f6d2e706e67|]
+Apr 21 12:03:23 10.71.56.0 u111365691 close "/images/prettyPhoto/facebook/btnNext.png" bytes read 845 written 0
+Apr 21 12:03:23 10.71.56.0 u111365691 [10.71.56.0|get|0|845|0|0|0|2f696d616765732f70726574747950686f746f2f66616365626f6f6b2f62746e4e6578742e706e67|]
+Apr 21 12:03:23 10.71.57.0 u111365691 open "/images/prettyPhoto/facebook/btnPrevious.png" flags READ mode 0666
+Apr 21 12:03:24 10.71.57.0 u111365691 close "/images/prettyPhoto/facebook/btnPrevious.png" bytes read 828 written 0
+Apr 21 12:03:24 10.71.57.0 u111365691 [10.71.57.0|get|1|828|0|0|0|2f696d616765732f70726574747950686f746f2f66616365626f6f6b2f62746e50726576696f75732e706e67|]
+Apr 21 12:03:25 10.71.56.0 u111365691 open "/images/prettyPhoto/light_rounded/sprite.png" flags READ mode 0666
+Apr 21 12:03:26 10.71.56.0 u111365691 close "/images/prettyPhoto/light_rounded/sprite.png" bytes read 4099 written 0
+Apr 21 12:03:26 10.71.56.0 u111365691 [10.71.56.0|get|1|4099|0|0|0|2f696d616765732f70726574747950686f746f2f6c696768745f726f756e6465642f7370726974652e706e67|]
+Apr 21 12:03:26 10.71.57.0 u111365691 open "/images/prettyPhoto/light_rounded/loader.gif" flags READ mode 0666
+Apr 21 12:03:27 10.71.56.0 u111365691 open "/images/prettyPhoto/light_rounded/btnPrevious.png" flags READ mode 0666
+Apr 21 12:03:27 10.71.57.0 u111365691 close "/images/prettyPhoto/light_rounded/loader.gif" bytes read 2545 written 0
+Apr 21 12:03:27 10.71.57.0 u111365691 [10.71.57.0|get|1|2545|0|0|0|2f696d616765732f70726574747950686f746f2f6c696768745f726f756e6465642f6c6f616465722e676966|]
+Apr 21 12:03:28 10.71.56.0 u111365691 close "/images/prettyPhoto/light_rounded/btnPrevious.png" bytes read 1442 written 0
+Apr 21 12:03:28 10.71.56.0 u111365691 [10.71.56.0|get|1|1442|0|0|0|2f696d616765732f70726574747950686f746f2f6c696768745f726f756e6465642f62746e50726576696f75732e706e67|]
+Apr 21 12:03:28 10.71.57.0 u111365691 open "/images/prettyPhoto/light_rounded/btnNext.png" flags READ mode 0666
+Apr 21 12:03:28 10.71.57.0 u111365691 close "/images/prettyPhoto/light_rounded/btnNext.png" bytes read 1411 written 0
+Apr 21 12:03:28 10.71.57.0 u111365691 [10.71.57.0|get|0|1411|0|0|0|2f696d616765732f70726574747950686f746f2f6c696768745f726f756e6465642f62746e4e6578742e706e67|]
+Apr 21 12:03:29 10.71.56.0 u111365691 open "/images/prettyPhoto/light_square/sprite.png" flags READ mode 0666
+Apr 21 12:03:30 10.71.57.0 u111365691 open "/images/prettyPhoto/light_square/btnPrevious.png" flags READ mode 0666
+Apr 21 12:03:30 10.71.56.0 u111365691 close "/images/prettyPhoto/light_square/sprite.png" bytes read 3507 written 0
+Apr 21 12:03:30 10.71.56.0 u111365691 [10.71.56.0|get|1|3507|0|0|0|2f696d616765732f70726574747950686f746f2f6c696768745f7371756172652f7370726974652e706e67|]
+Apr 21 12:03:31 10.71.57.0 u111365691 close "/images/prettyPhoto/light_square/btnPrevious.png" bytes read 1442 written 0
+Apr 21 12:03:31 10.71.57.0 u111365691 [10.71.57.0|get|1|1442|0|0|0|2f696d616765732f70726574747950686f746f2f6c696768745f7371756172652f62746e50726576696f75732e706e67|]
+Apr 21 12:03:31 10.71.56.0 u111365691 open "/images/prettyPhoto/light_square/btnNext.png" flags READ mode 0666
+Apr 21 12:03:32 10.71.56.0 u111365691 close "/images/prettyPhoto/light_square/btnNext.png" bytes read 1411 written 0
+Apr 21 12:03:32 10.71.56.0 u111365691 [10.71.56.0|get|1|1411|0|0|0|2f696d616765732f70726574747950686f746f2f6c696768745f7371756172652f62746e4e6578742e706e67|]
+Apr 21 12:03:33 10.71.57.0 u111365691 open "/js/prettyPhoto.js" flags READ mode 0666
+Apr 21 12:03:33 10.71.56.0 u111365691 open "/js/parallax.js" flags READ mode 0666
+Apr 21 12:03:34 10.71.57.0 u111365691 close "/js/prettyPhoto.js" bytes read 21506 written 0
+Apr 21 12:03:34 10.71.57.0 u111365691 [10.71.57.0|get|1|21506|0|0|0|2f6a732f70726574747950686f746f2e6a73|]
+Apr 21 12:03:34 10.71.56.0 u111365691 close "/js/parallax.js" bytes read 12038 written 0
+Apr 21 12:03:34 10.71.56.0 u111365691 [10.71.56.0|get|1|12038|0|0|0|2f6a732f706172616c6c61782e6a73|]
+Apr 21 12:03:34 10.71.57.0 u111365691 open "/js/owl.carousel.min.js" flags READ mode 0666
+Apr 21 12:03:35 10.71.56.0 u111365691 open "/js/main.js" flags READ mode 0666
+Apr 21 12:03:35 10.71.57.0 u111365691 close "/js/owl.carousel.min.js" bytes read 23890 written 0
+Apr 21 12:03:35 10.71.57.0 u111365691 [10.71.57.0|get|1|23890|0|0|0|2f6a732f6f776c2e6361726f7573656c2e6d696e2e6a73|]
+Apr 21 12:03:36 10.71.56.0 u111365691 close "/js/main.js" bytes read 14796 written 0
+Apr 21 12:03:36 10.71.56.0 u111365691 [10.71.56.0|get|1|14796|0|0|0|2f6a732f6d61696e2e6a73|]
+Apr 21 12:03:36 10.71.57.0 u111365691 open "/js/kinetic.js" flags READ mode 0666
+Apr 21 12:03:36 10.71.56.0 u111365691 open "/js/jquery.svgInject.js" flags READ mode 0666
+Apr 21 12:03:37 10.71.57.0 u111365691 close "/js/kinetic.js" bytes read 115509 written 0
+Apr 21 12:03:37 10.71.57.0 u111365691 [10.71.57.0|get|1|115509|0|0|0|2f6a732f6b696e657469632e6a73|]
+Apr 21 12:03:38 10.71.56.0 u111365691 close "/js/jquery.svgInject.js" bytes read 6823 written 0
+Apr 21 12:03:38 10.71.56.0 u111365691 [10.71.56.0|get|2|6823|0|0|0|2f6a732f6a71756572792e737667496e6a6563742e6a73|]
+Apr 21 12:03:38 10.71.57.0 u111365691 open "/js/isotope.pkgd.js" flags READ mode 0666
+Apr 21 12:03:39 10.71.56.0 u111365691 open "/js/gmap3.js" flags READ mode 0666
+Apr 21 12:03:39 10.71.57.0 u111365691 close "/js/isotope.pkgd.js" bytes read 119970 written 0
+Apr 21 12:03:39 10.71.57.0 u111365691 [10.71.57.0|get|1|119970|0|0|0|2f6a732f69736f746f70652e706b67642e6a73|]
+Apr 21 12:03:40 10.71.57.0 u111365691 open "/js/final-countdown.js" flags READ mode 0666
+Apr 21 12:03:41 10.71.56.0 u111365691 close "/js/gmap3.js" bytes read 63597 written 0
+Apr 21 12:03:41 10.71.56.0 u111365691 [10.71.56.0|get|2|63597|0|0|0|2f6a732f676d6170332e6a73|]
+Apr 21 12:03:41 10.71.57.0 u111365691 close "/js/final-countdown.js" bytes read 7767 written 0
+Apr 21 12:03:41 10.71.57.0 u111365691 [10.71.57.0|get|1|7767|0|0|0|2f6a732f66696e616c2d636f756e74646f776e2e6a73|]
+Apr 21 12:03:42 10.71.56.0 u111365691 open "/js/countTo.js" flags READ mode 0666
+Apr 21 12:03:42 10.71.57.0 u111365691 open "/js/chartsloader.js" flags READ mode 0666
+Apr 21 12:03:43 10.71.56.0 u111365691 close "/js/countTo.js" bytes read 3761 written 0
+Apr 21 12:03:43 10.71.56.0 u111365691 [10.71.56.0|get|1|3761|0|0|0|2f6a732f636f756e74546f2e6a73|]
+Apr 21 12:03:43 10.71.57.0 u111365691 close "/js/chartsloader.js" bytes read 69777 written 0
+Apr 21 12:03:43 10.71.57.0 u111365691 [10.71.57.0|get|1|69777|0|0|0|2f6a732f6368617274736c6f616465722e6a73|]
+Apr 21 12:03:43 10.71.56.0 u111365691 open "/js/appear.js" flags READ mode 0666
+Apr 21 12:03:44 10.71.56.0 u111365691 close "/js/appear.js" bytes read 1478 written 0
+Apr 21 12:03:44 10.71.56.0 u111365691 [10.71.56.0|get|1|1478|0|0|0|2f6a732f6170706561722e6a73|]
+Apr 21 12:03:44 10.71.57.0 u111365691 open "/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js" flags READ mode 0666
+Apr 21 12:03:45 10.71.57.0 u111365691 close "/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js" bytes read 20106 written 0
+Apr 21 12:03:45 10.71.57.0 u111365691 [10.71.57.0|get|1|20106|0|0|0|2f6a732f76656e646f722f6d6f6465726e697a722d322e382e332d726573706f6e642d312e342e322e6d696e2e6a73|]
+Apr 21 12:03:46 10.71.56.0 u111365691 open "/js/vendor/bootstrap.min.js" flags READ mode 0666
+Apr 21 12:03:46 10.71.57.0 u111365691 open "/js/vendor/jquery-library.js" flags READ mode 0666
+Apr 21 12:03:47 10.71.56.0 u111365691 close "/js/vendor/bootstrap.min.js" bytes read 36868 written 0
+Apr 21 12:03:47 10.71.56.0 u111365691 [10.71.56.0|get|1|36868|0|0|0|2f6a732f76656e646f722f626f6f7473747261702e6d696e2e6a73|]
+Apr 21 12:03:47 10.71.57.0 u111365691 close "/js/vendor/jquery-library.js" bytes read 95957 written 0
+Apr 21 12:03:47 10.71.57.0 u111365691 [10.71.57.0|get|1|95957|0|0|0|2f6a732f76656e646f722f6a71756572792d6c6962726172792e6a73|]
+Apr 21 12:03:48 10.71.56.0 u111365691 open "/logs/access.log.16.5" flags READ mode 0666
+Apr 21 12:03:49 10.71.57.0 u111365691 open "/logs/access.log.16.3.gz" flags READ mode 0666
+Apr 21 12:03:49 10.71.56.0 u111365691 close "/logs/access.log.16.5" bytes read 31948 written 0
+Apr 21 12:03:49 10.71.56.0 u111365691 [10.71.56.0|get|1|31948|0|0|0|2f6c6f67732f6163636573732e6c6f672e31362e35|]
+Apr 21 12:03:49 10.71.57.0 u111365691 close "/logs/access.log.16.3.gz" bytes read 1915 written 0
+Apr 21 12:03:49 10.71.57.0 u111365691 [10.71.57.0|get|0|1915|0|0|0|2f6c6f67732f6163636573732e6c6f672e31362e332e677a|]
+Apr 21 12:03:50 10.71.56.0 u111365691 open "/logs/sftp.log.15.gz" flags READ mode 0666
+Apr 21 12:03:50 10.71.57.0 u111365691 open "/logs/sftp.log.13.gz" flags READ mode 0666
+Apr 21 12:03:51 10.71.56.0 u111365691 close "/logs/sftp.log.15.gz" bytes read 6957 written 0
+Apr 21 12:03:51 10.71.56.0 u111365691 [10.71.56.0|get|1|6957|0|0|0|2f6c6f67732f736674702e6c6f672e31352e677a|]
+Apr 21 12:03:51 10.71.57.0 u111365691 close "/logs/sftp.log.13.gz" bytes read 989 written 0
+Apr 21 12:03:51 10.71.57.0 u111365691 [10.71.57.0|get|1|989|0|0|0|2f6c6f67732f736674702e6c6f672e31332e677a|]
+Apr 21 12:03:52 10.71.56.0 u111365691 open "/logs/access.log.11.gz" flags READ mode 0666
+Apr 21 12:03:53 10.71.57.0 u111365691 open "/logs/access.log.10.gz" flags READ mode 0666
+Apr 21 12:03:53 10.71.56.0 u111365691 close "/logs/access.log.11.gz" bytes read 30046 written 0
+Apr 21 12:03:53 10.71.56.0 u111365691 [10.71.56.0|get|1|30046|0|0|0|2f6c6f67732f6163636573732e6c6f672e31312e677a|]
+Apr 21 12:03:54 10.71.56.0 u111365691 open "/logs/access.log.16.2.gz" flags READ mode 0666
+Apr 21 12:03:54 10.71.57.0 u111365691 close "/logs/access.log.10.gz" bytes read 16283 written 0
+Apr 21 12:03:54 10.71.57.0 u111365691 [10.71.57.0|get|1|16283|0|0|0|2f6c6f67732f6163636573732e6c6f672e31302e677a|]
+Apr 21 12:03:54 10.71.57.0 u111365691 open "/logs/access.log.15.6.gz" flags READ mode 0666
+Apr 21 12:03:55 10.71.56.0 u111365691 close "/logs/access.log.16.2.gz" bytes read 2346 written 0
+Apr 21 12:03:55 10.71.56.0 u111365691 [10.71.56.0|get|1|2346|0|0|0|2f6c6f67732f6163636573732e6c6f672e31362e322e677a|]
+Apr 21 12:03:55 10.71.57.0 u111365691 close "/logs/access.log.15.6.gz" bytes read 2153 written 0
+Apr 21 12:03:55 10.71.57.0 u111365691 [10.71.57.0|get|1|2153|0|0|0|2f6c6f67732f6163636573732e6c6f672e31352e362e677a|]
+Apr 21 12:03:55 10.71.56.0 u111365691 open "/logs/access.log.15.3.gz" flags READ mode 0666
+Apr 21 12:03:56 10.71.57.0 u111365691 open "/logs/sftp.log.14.gz" flags READ mode 0666
+Apr 21 12:03:56 10.71.56.0 u111365691 close "/logs/access.log.15.3.gz" bytes read 3279 written 0
+Apr 21 12:03:56 10.71.56.0 u111365691 [10.71.56.0|get|1|3279|0|0|0|2f6c6f67732f6163636573732e6c6f672e31352e332e677a|]
+Apr 21 12:03:57 10.71.57.0 u111365691 close "/logs/sftp.log.14.gz" bytes read 9890 written 0
+Apr 21 12:03:57 10.71.57.0 u111365691 [10.71.57.0|get|1|9890|0|0|0|2f6c6f67732f736674702e6c6f672e31342e677a|]
+Apr 21 12:03:57 10.71.56.0 u111365691 open "/logs/info.py" flags READ mode 0666
+Apr 21 12:03:58 10.71.57.0 u111365691 open "/logs/info.php5" flags READ mode 0666
+Apr 21 12:03:58 10.71.56.0 u111365691 close "/logs/info.py" bytes read 6384 written 0
+Apr 21 12:03:58 10.71.56.0 u111365691 [10.71.56.0|get|1|6384|0|0|0|2f6c6f67732f696e666f2e7079|]
+Apr 21 12:03:58 10.71.57.0 u111365691 close "/logs/info.php5" bytes read 21 written 0
+Apr 21 12:03:58 10.71.57.0 u111365691 [10.71.57.0|get|1|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+Apr 21 12:03:58 10.71.56.0 u111365691 open "/logs/info.pl" flags READ mode 0666
+Apr 21 12:03:59 10.71.56.0 u111365691 close "/logs/info.pl" bytes read 4176 written 0
+Apr 21 12:03:59 10.71.56.0 u111365691 [10.71.56.0|get|1|4176|0|0|0|2f6c6f67732f696e666f2e706c|]
+Apr 21 12:03:59 10.71.57.0 u111365691 open "/logs/access.log.09.gz" flags READ mode 0666
+Apr 21 12:04:00 10.71.56.0 u111365691 open "/logs/access.log.16.4.gz" flags READ mode 0666
+Apr 21 12:04:00 10.71.57.0 u111365691 close "/logs/access.log.09.gz" bytes read 31857 written 0
+Apr 21 12:04:00 10.71.57.0 u111365691 [10.71.57.0|get|1|31857|0|0|0|2f6c6f67732f6163636573732e6c6f672e30392e677a|]
+Apr 21 12:04:01 10.71.57.0 u111365691 open "/logs/access.log.16.1.gz" flags READ mode 0666
+Apr 21 12:04:01 10.71.56.0 u111365691 close "/logs/access.log.16.4.gz" bytes read 4090 written 0
+Apr 21 12:04:01 10.71.56.0 u111365691 [10.71.56.0|get|1|4090|0|0|0|2f6c6f67732f6163636573732e6c6f672e31362e342e677a|]
+Apr 21 12:04:02 10.71.57.0 u111365691 close "/logs/access.log.16.1.gz" bytes read 4711 written 0
+Apr 21 12:04:02 10.71.57.0 u111365691 [10.71.57.0|get|1|4711|0|0|0|2f6c6f67732f6163636573732e6c6f672e31362e312e677a|]
+Apr 21 12:04:02 10.71.56.0 u111365691 open "/logs/access.log.14.gz" flags READ mode 0666
+Apr 21 12:04:03 10.71.57.0 u111365691 open "/logs/access.log.15.5.gz" flags READ mode 0666
+Apr 21 12:04:03 10.71.56.0 u111365691 close "/logs/access.log.14.gz" bytes read 32739 written 0
+Apr 21 12:04:03 10.71.56.0 u111365691 [10.71.56.0|get|1|32739|0|0|0|2f6c6f67732f6163636573732e6c6f672e31342e677a|]
+Apr 21 12:04:03 10.71.57.0 u111365691 close "/logs/access.log.15.5.gz" bytes read 6969 written 0
+Apr 21 12:04:03 10.71.57.0 u111365691 [10.71.57.0|get|0|6969|0|0|0|2f6c6f67732f6163636573732e6c6f672e31352e352e677a|]
+Apr 21 12:04:04 10.71.56.0 u111365691 open "/logs/access.log.15.2.gz" flags READ mode 0666
+Apr 21 12:04:04 10.71.57.0 u111365691 open "/logs/access.log.12.gz" flags READ mode 0666
+Apr 21 12:04:05 10.71.57.0 u111365691 close "/logs/access.log.12.gz" bytes read 26475 written 0
+Apr 21 12:04:05 10.71.57.0 u111365691 [10.71.57.0|get|1|26475|0|0|0|2f6c6f67732f6163636573732e6c6f672e31322e677a|]
+Apr 21 12:04:05 10.71.56.0 u111365691 close "/logs/access.log.15.2.gz" bytes read 3354 written 0
+Apr 21 12:04:05 10.71.56.0 u111365691 [10.71.56.0|get|1|3354|0|0|0|2f6c6f67732f6163636573732e6c6f672e31352e322e677a|]
+Apr 21 12:04:06 10.71.57.0 u111365691 open "/logs/access.log.08.gz" flags READ mode 0666
+Apr 21 12:04:07 10.71.56.0 u111365691 open "/logs/sftp.log" flags READ mode 0666
