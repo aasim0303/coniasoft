@@ -97,7 +97,7 @@ include('header.php');
     <li>10 Domains</li>
     <li>1GB Bandwidth</li>
     <li class="grey">
-      <a href="product_registration.php?value=1"  class="button">Sign Up</a>
+      <a href="product_registration.php?value=2"  class="button">Sign Up</a>
     </li>
   </ul>
 </div>
@@ -111,7 +111,7 @@ include('header.php');
     <li>25 Domains</li>
     <li>2GB Bandwidth</li>
     <li class="grey">
-      <a href="product_registration.php?value=2" value="1" class="button">Sign Up</a>
+      <a href="product_registration.php?value=3" value="1" class="button">Sign Up</a>
     </li>
   </ul>
 </div>
@@ -125,7 +125,7 @@ include('header.php');
     <li>50 Domains</li>
     <li>5GB Bandwidth</li>
     <li class="grey">
-      <a href="product_registration.php?value=3" value="1" class="button">Sign Up</a>
+      <a href="product_registration.php?value=4" value="1" class="button">Sign Up</a>
     </li>
   </ul>
 </div>
